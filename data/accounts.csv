@@ -1,0 +1,921 @@
+Account ID,Account Status,Account Type,Expected end date,Industry.,Vertical,Company Type,Annual Revenue (converted),Country,Pending Invoices Amount
+0011n00002Su4vi,Active,Customer,2022-02-19,Homeware,Decor,SME,6533000.0,UNITED STATES,1600.0
+0010Y000005DSng,Cancelled,Former Client,2019-05-31,Fashion,Clothing,Mid-Market,170000000.0,UNITED STATES,
+0011n00001pYB8m,Cancelled,Former Client,2019-06-01,"Toys, Kids & baby",Baby items,SME,2000000.0,UNITED STATES,
+0011n000026QmWo,Cancelled,Former Client,2020-01-01,Sports,Sporting goods,SME,,SWEDEN,
+0010Y000002s839,Cancelled,Former Client,2021-02-20,Beauty & Personal Care,Hair Care,SME,10000000.0,UNITED KINGDOM,
+0010Y000010OnqA,Active,Customer,2022-06-02,"Toys, Kids & baby",Baby items,SME,784000.0,UNITED STATES,4725.0
+0010Y000014o4US,Paused,Customer,,Fashion,Accessories,SME,200000.0,UNITED STATES,
+0011n00002EzjX4,Active,Customer,2022-09-16,Sports,Sporting goods,SME,8600000.0,UNITED STATES,2222.58
+0010Y00001D6BgN,Paused,Customer,,Homeware,Household appliances,SME,5200000.0,UNITED STATES,
+0011n00002AyBRB,Active,Customer,2022-05-10,Sports,Sport apparel,SME,4800000.0,GERMANY,1000.0
+0011n00001rystk,Cancelled,Former Client,2019-06-01,Fashion,Accessories,SME,,UNITED STATES,
+0011n00001ryJ5X,Cancelled,Former Client,2020-07-01,Health,Medical Devices,SME,,UNITED STATES,
+0011n00001ryrwD,Cancelled,Former Client,2019-05-21,Beauty & Personal Care,Beauty Gadgets,SME,,UNITED STATES,
+0011n00001ryUTM,Cancelled,Former Client,2021-01-01,"Toys, Kids & baby",Baby items,SME,34218000.0,CANADA,
+0011n00001rybgm,Cancelled,Former Client,2019-06-05,Construction,Parts and Materials,SME,14800000.0,UNITED STATES,
+0011n00001rywm2,Active,Customer,,Sports,Sports Clubs,Enterprise,800000000.0,SPAIN,
+0011n00002MWPss,Active,Customer,2022-08-30,"Toys, Kids & baby",Toys,SME,19800000.0,UNITED KINGDOM,14423.0
+0011n00002MYuBz,Active,Customer,2022-03-14,Health,Medical Goods,SME,25000000.0,UNITED STATES,4000.0
+0011n00002J0aVG,Active,Customer,,Test Purchase/Investigation,,Large Enterprise,92260800000.0,GERMANY,1650.0
+0011n00002Sv0Hv,Active,Customer,2022-03-01,Fashion,Luxury Goods,SME,3500000.0,UNITED KINGDOM,0.0
+0011n00002ZsTIU,Active,Customer,2022-06-22,Beauty & Personal Care,Skin Care,SME,,UNITED STATES,2705.0
+0011n00002IxPvD,Active,Customer,2022-03-15,"Toys, Kids & baby",Baby items,SME,50000000.0,UNITED STATES,2500.0
+0011n00002NuKeg,Cancelled,Former Client,2021-07-01,Law Firm/Partner,Law Firm/Partner,SME,8300000.0,ARGENTINA,2500.0
+0011n00002FMnlt,Active,Customer,2022-12-17,Health,Medical Devices,Mid-Market,68500000.0,ITALY,2095.0
+0011n00002YtrhA,Active,Customer,2022-02-23,Construction,Tools,SME,4200000.0,ITALY,2128.0
+0011n00002YtrlW,Active,Customer,2022-02-04,Consumer Goods,Arts & Crafts Goods,SME,,UNITED STATES,3000.0
+0011n00002NuTly,Active,Customer,2022-05-07,Beauty & Personal Care,Baby Care,SME,200000.0,UNITED STATES,6750.0
+0011n00002Nw7Dq,Active,Customer,2022-09-01,Auto,Plane & Boat Parts & Accessories,SME,18000000.0,UNITED STATES,2415.0
+0011n00002M1WDa,Cancelled,Former Client,2020-12-01,Food & Beverage,Coffee,SME,,ITALY,
+0011n00002D3UcX,Active,Customer,2022-07-09,Fashion,Undergarments,SME,,NORWAY,1530.16
+0011n00001m00BN,Cancelled,Former Client,2019-05-02,Beauty & Personal Care,Cosmetics,SME,8800000.0,UNITED KINGDOM,
+0011n00001px2Y4,Active,Customer,2022-04-19,"Toys, Kids & baby",Baby items,SME,4800000.0,UNITED STATES,6912.0
+0010Y00000v1cql,Cancelled,Former Client,2019-12-15,Beauty & Personal Care,Skin Care,SME,,UNITED STATES,
+0010Y000015IpNB,Active,Customer,2022-08-05,Fashion,Clothing,SME,9084000.0,UNITED STATES,1400.0
+0010Y00000SJSv5,Active,Customer,2022-01-30,Sports,Sports Clubs,SME,1600000.0,SPAIN,5717.25
+0010Y00001ekRax,Cancelled,Former Client,2019-10-01,"Toys, Kids & baby",Baby items,SME,1200000.0,HONG KONG,
+0010Y00001eo2od,Cancelled,Former Client,2019-08-17,"Toys, Kids & baby",Toys,SME,,UNITED STATES,
+0010Y00001emQAA,Active,Customer,2022-07-23,Homeware,Kitchenware,SME,4300000.0,UNITED STATES,9743.0
+0010Y00001endLf,Cancelled,Former Client,2021-11-01,Homeware,Household appliances,SME,,UNITED STATES,8000.0
+0010Y00001enidG,Paused,Customer,,Homeware,Kitchenware,SME,5000000.0,UNITED STATES,
+0010Y00001fEHHO,Active,Customer,2022-09-30,Food & Beverage,Packaged Foods,SME,7000000.0,UNITED STATES,0.0
+0011n00001xW4Q6,Cancelled,Former Client,2020-02-01,Sports,Hunting,SME,4400000.0,UNITED STATES,
+0011n00001xW3J4,Active,Customer,2022-02-18,Sports,Sporting goods,SME,4800000.0,UNITED STATES,1000.0
+0010Y00000XrvzB,Cancelled,Former Client,2020-05-07,"Toys, Kids & baby",Toys,SME,5700000.0,HONG KONG,
+0011n00001xWJju,Cancelled,Former Client,2019-06-06,Beauty & Personal Care,Hair Care,SME,6800000.0,UNITED STATES,
+0011n00001pwmIl,Active,Customer,2022-03-25,Homeware,Kitchenware,SME,1600000.0,GERMANY,1550.0
+0011n00001pwVPF,Active,Customer,2022-10-21,Homeware,Lighting,SME,6400000.0,PORTUGAL,1765.0
+0011n000028u655,Cancelled,Former Client,2021-09-01,Beauty & Personal Care,Hair Care,SME,5600000.0,UNITED STATES,15030.0
+0011n000028uA2E,Active,Customer,2022-12-31,Software,Gambling,Large Enterprise,2000000000.0,UNITED KINGDOM,18000.0
+0011n000028tQDL,Cancelled,Former Client,2019-12-01,Fashion,Accessories,SME,,POLAND,
+0011n000029NU3Z,Active,Customer,2022-02-12,Fashion,Headwear,Mid-Market,50000000.0,UNITED STATES,2835.0
+0011n000028vHJK,Active,Customer,2022-11-22,Consumer Goods,Design materials,SME,19500000.0,UNITED STATES,0.0
+0011n000028v91F,Active,Customer,2022-04-28,Construction,Tools,SME,17900000.0,UNITED STATES,3537.1
+0011n000028vBo7,Cancelled,Former Client,2019-12-01,Consumer Goods,Design materials,SME,6000000.0,UNITED STATES,
+0010Y00001U4FDy,Active,Customer,2022-09-29,Beauty & Personal Care,Skin Care,SME,2800000.0,NETHERLANDS,2416.0
+0010Y00000UxJoM,Active,Customer,2022-05-16,Sports,Firearms,Mid-Market,138200000.0,UNITED STATES,
+0011n00001x0aXm,Cancelled,Former Client,2019-08-03,Fashion,Clothing,SME,6000000.0,GREECE,
+0011n000021b7Ar,Cancelled,Former Client,2019-11-01,Entertainment,Celebrity-branded goods,Mid-Market,68200000.0,UNITED STATES,
+0011n00001x0eXx,Active,Customer,2023-01-03,"Toys, Kids & baby",Toys,SME,2000000.0,UNITED STATES,13140.0
+0011n00001xWiPn,Active,Customer,2022-11-24,Electronics,Appliances,Enterprise,,SWEDEN,2000.0
+0011n00001x0Gvu,Active,Customer,2022-11-19,Fashion,Clothing,SME,33257000.0,ITALY,0.0
+0010Y00000zACI4,Cancelled,Former Client,2020-03-31,Fashion,Accessories,SME,7700000.0,UNITED STATES,
+0010Y00001D5vQY,Cancelled,Former Client,2021-04-19,"Toys, Kids & baby",Toys,SME,,BELGIUM,2500.0
+0010Y00001D6MPH,Cancelled,Former Client,2020-10-04,Electronics,Appliances,Mid-Market,52000000.0,UNITED STATES,
+0011n000029MfH1,Cancelled,Former Client,2020-08-09,Consumer Goods,Design materials,SME,0.0,FRANCE,
+0011n00002AxhMQ,Active,Customer,2022-12-09,Health,Medical Devices,SME,,AUSTRALIA,2000.0
+0010Y00000HCjFA,Cancelled,Former Client,2021-05-07,Homeware,Kitchenware,SME,1800000.0,UNITED KINGDOM,1570.0
+0011n000021Zdjh,Active,Customer,2022-04-07,Construction,Tools,SME,23300000.0,SWITZERLAND,2400.0
+0011n000021ZvIr,Cancelled,Former Client,2020-06-01,Sports,Sporting goods,SME,12100000.0,UNITED STATES,
+0010Y00001NIFQx,Cancelled,Former Client,2019-10-06,Beauty & Personal Care,Beauty Gadgets,SME,2800000.0,UNITED STATES,
+0011n000021Z7Kz,Cancelled,Former Client,2020-05-01,Homeware,Pets,SME,26600000.0,CANADA,
+0011n000021YNor,Active,Customer,2022-01-10,"Toys, Kids & baby",Toys,SME,23900000.0,UNITED STATES,1874.25
+0011n000021YTi9,Cancelled,Former Client,2020-04-20,Sports,General Sports,SME,,GERMANY,
+0011n000021aCGf,Cancelled,Former Client,2019-06-15,Beauty & Personal Care,Personal Care Items,SME,39779000.0,UNITED STATES,
+0010Y00000qdprC,Cancelled,Former Client,2020-11-01,Fashion,Bags & Luggage,Enterprise,560000000.0,UNITED STATES,
+0011n00001xXfpM,Active,Customer,2022-04-22,"Toys, Kids & baby",Baby items,SME,5500000.0,UNITED STATES,2415.0
+0010Y00000eDJGK,Active,Customer,2022-08-10,Sports,Sport apparel,SME,9400000.0,UNITED STATES,6077.0
+0011n00001xXWwh,Active,Customer,2022-06-30,Health,Medical Devices,SME,16300000.0,GERMANY,3963.75
+0011n00001xXgAS,Cancelled,Former Client,2019-12-01,Fashion,Clothing,SME,3600000.0,UNITED STATES,
+0011n00001xX0it,Cancelled,Former Client,2020-05-06,"Toys, Kids & baby",Toys,SME,,SWITZERLAND,
+0011n00002C1zVs,Active,Customer,2022-03-02,Software,Software,SME,1200000.0,PANAMA,0.0
+0010Y00000ee3cx,Paused,Customer,,Beauty & Personal Care,Hair Care,SME,7400000.0,UNITED STATES,
+0011n00001m2oBV,Cancelled,Former Client,2020-02-01,Beauty & Personal Care,Perfume,SME,200000.0,UNITED KINGDOM,
+0011n00002VJmsa,Cancelled,Former Client,2021-11-30,Test Purchase/Investigation,,SME,,MEXICO,
+0011n00002VJmKK,Cancelled,Former Client,2021-11-30,Test Purchase/Investigation,,SME,,ARGENTINA,
+0011n00002ZvIMZ,Active,Customer,2022-04-01,Electronics,Cameras & Camcorders,SME,4000000.0,SOUTH KOREA,3035.0
+0011n00002NtUjN,Active,Customer,2022-06-02,Fashion,Clothing,SME,197000.0,UNITED STATES,3885.0
+0011n000029VIEX,Cancelled,Former Client,2020-05-08,Auto,Car Lighting,SME,4200000.0,UNITED STATES,
+0011n00001wxleO,Paused,Customer,2022-01-01,Electronics,Videogames,Large Enterprise,2830720000.0,AUSTRIA,2900.0
+0011n00001wyzeI,Active,Customer,2022-04-01,Homeware,Other,SME,2000000.0,CANADA,1107.0
+0011n000024FaWp,Active,Customer,2022-06-20,Fashion,Eyewear,SME,261000.0,UNITED STATES,1940.0
+0011n000024F9tx,Cancelled,Former Client,2020-09-09,Fashion,Undergarments,SME,4200000.0,UNITED STATES,
+0011n00002dDU76,Active,Customer,2022-08-29,Entertainment,TV,SME,,UNITED STATES,7000.0
+0010Y00000ZsE1h,Cancelled,Former Client,2020-12-01,Sports,Sport apparel,Mid-Market,215000000.0,UNITED KINGDOM,
+0010Y00000crNkE,Active,Customer,2022-11-25,Sports,Sport apparel,SME,33300000.0,UNITED STATES,2530.0
+0010Y00000ZHgEr,Active,Customer,2022-10-01,Fashion,Accessories,SME,10800000.0,UNITED STATES,1500.0
+0011n0000259Oty,Cancelled,Former Client,2021-09-01,"Toys, Kids & baby",Baby items,SME,198000.0,CANADA,23400.0
+0011n00002A0MY5,Active,Customer,2022-06-22,Fashion,Accessories,SME,2116000.0,POLAND,32169.0
+0011n0000259NGw,Active,Customer,2022-08-28,Sports,Sporting goods,SME,24392000.0,SOUTH AFRICA,1123.5
+0011n00001lFXky,Cancelled,Former Client,2020-02-09,Beauty & Personal Care,Personal Care Items,SME,8200000.0,UNITED STATES,
+0011n000028tszK,Cancelled,Former Client,2020-06-13,Fashion,Accessories,Mid-Market,185200000.0,UNITED STATES,
+0011n000029wYs6,Cancelled,Former Client,2021-04-01,Health,Pharmaceutical,Large Enterprise,4700000000.0,IRELAND,2624.0
+0010Y00001V08zm,Active,Customer,2022-04-29,Fashion,Footwear,SME,33500000.0,UNITED STATES,3125.0
+0011n00002Axke2,Active,Customer,2022-06-06,Sports,Sport apparel,SME,17750600.0,FRANCE,2700.0
+0010Y00000BWi5s,Active,Customer,2022-06-27,Fashion,Clothing,SME,2200000.0,UNITED STATES,3500.0
+0010Y00000mxjf3,Cancelled,Former Client,2020-01-15,Fashion,Accessories,Mid-Market,72700000.0,GERMANY,
+0010Y00000SJqp7,Cancelled,Former Client,2021-06-01,"Toys, Kids & baby",Baby items,SME,7400000.0,UNITED STATES,23418.18
+0010Y00000SJqTa,Cancelled,Former Client,2019-04-01,Law Firm/Partner,Law Firm/Partner,SME,14900000.0,UNITED KINGDOM,
+0011n000022PPlK,Active,Customer,2022-07-30,Fashion,Clothing,SME,15800000.0,ITALY,1350.0
+0011n00002dEXry,Active,Customer,2022-12-01,Law Firm/Partner,Law Firm/Partner,SME,,UNITED STATES,21348.65
+0011n00002eVOil,Active,Customer,2022-05-27,Homeware,Decor,SME,,UNITED STATES,1890.0
+0011n00001pX2dS,Active,Customer,2022-05-26,Entertainment,"Movies, Music, TV",SME,4000000.0,CANADA,3103.33
+0010Y00000QXG0W,Cancelled,Former Client,2020-03-06,Homeware,Indoor Household goods,SME,4000000.0,UNITED STATES,
+0010Y00001BqLBv,Active,Customer,2022-10-31,Sports,Firearms,SME,2400000.0,UNITED STATES,2625.0
+0011n00002B0POs,Cancelled,Former Client,2020-05-01,Health,Medical Devices,SME,3129000.0,UNITED STATES,
+0011n0000259Mfg,Active,Customer,2022-07-12,Sports,Sporting goods,SME,13440000.0,UNITED STATES,2047.5
+0011n00001xUYcb,Cancelled,Former Client,2020-06-19,Fashion,Bags & Luggage,SME,1800000.0,ITALY,
+0011n000026SMox,Active,Customer,2022-08-31,"Toys, Kids & baby",Toys,SME,,GERMANY,3100.0
+0011n000026QyzW,Active,Customer,2022-06-25,"Toys, Kids & baby",Toys,SME,,UNITED STATES,3580.0
+0010Y00000R7LO6,Paused,Customer,,Sports,Sporting goods,SME,27200000.0,BELGIUM,
+0011n0000258RdZ,Cancelled,Former Client,2020-03-10,"Toys, Kids & baby",Toys,SME,4600000.0,SWEDEN,
+0011n000021amO4,Cancelled,Former Client,2021-07-08,Sports,Sporting goods,SME,4500000.0,UNITED STATES,4476.67
+0010Y00001g0K8S,Active,Customer,2022-11-09,Publishers,"Print (Books, Magazines, Newspapers)",SME,5000000.0,CANADA,1627.5
+0011n00001nPCwl,Active,Customer,2022-08-09,Homeware,Kitchenware,Mid-Market,704000000.0,UNITED STATES,3000.0
+0011n000024BFIZ,Active,Customer,2022-06-18,Consumer Goods,Arts & Crafts Goods,Mid-Market,291000000.0,SPAIN,4799.77
+0011n000026Qw3M,Cancelled,Former Client,2019-12-01,"Toys, Kids & baby",Toys,SME,8700000.0,SINGAPORE,
+0011n000026Qw3c,Active,Customer,2022-09-15,Construction,Parts and Materials,Large Enterprise,8648413000.0,AUSTRIA,1757.0
+0011n000024AoXJ,Cancelled,Former Client,2019-06-26,Electronics,Appliances,SME,257000.0,JAPAN,
+0011n000026Qw2A,Active,Customer,2022-01-27,Homeware,Pets,SME,11800000.0,UNITED STATES,0.0
+0011n000026Qw4E,Active,Customer,2022-07-06,Homeware,Pets,SME,32640000.0,UNITED STATES,1200.0
+0011n000026Qht9,Active,Customer,2022-08-11,Beauty & Personal Care,Hair Care,SME,1000000.0,UNITED STATES,375.0
+0010Y00000PUCL0,Active,Customer,2022-12-19,Homeware,Kitchenware,SME,5500000.0,AUSTRALIA,0.0
+0011n00002C1f7o,Cancelled,Former Client,2021-08-01,Health,Medical Goods,SME,20300000.0,UNITED STATES,7500.0
+0010Y00000PTmX8,Cancelled,Former Client,2020-07-01,Fashion,Watches,SME,1922000.0,SWITZERLAND,
+0010Y00000SIprn,Cancelled,Former Client,2019-11-10,Fashion,Accessories,SME,2900000.0,AUSTRALIA,
+0011n00002GBV6D,Active,Customer,2022-04-30,Software,Software,SME,20000000.0,CYPRUS,2100.0
+0011n00002eWsv3,Active,Customer,2022-07-04,Fashion,Undergarments,SME,,UNITED STATES,
+0011n00002Y7ceu,Active,Customer,2022-05-24,Entertainment,Movies,SME,,UNITED STATES,11532.0
+0011n00002Y7YFa,Cancelled,Former Client,2021-11-30,Test Purchase/Investigation,,SME,,PERU,
+0011n00002C1uHz,Active,Customer,2022-12-28,Law Firm/Partner,Law Firm/Partner,SME,12100000.0,UNITED KINGDOM,4400.0
+0011n00002QWVDE,Active,Customer,2022-03-31,Homeware,Kitchenware,SME,10000000.0,UNITED STATES,5551.0
+0011n000029VjvQ,Cancelled,Former Client,2020-05-04,Health,Medical Devices,SME,,UNITED STATES,
+0011n000029VjXQ,Active,Customer,2022-10-21,"Toys, Kids & baby",Toys,SME,5000000.0,UNITED STATES,3150.0
+0011n00001wyzkL,Cancelled,Former Client,2020-04-04,Homeware,Kitchenware,SME,29400000.0,UNITED STATES,
+0011n00002Zrk9R,Active,Customer,2022-03-14,Software,Videogames,SME,,UNITED KINGDOM,2040.0
+0011n00001xWYLK,Paused,Customer,2022-01-01,Homeware,Kitchenware,SME,37000000.0,UNITED STATES,8820.0
+0011n00001xWaJw,Cancelled,Former Client,2019-08-29,Fashion,Clothing,SME,,LITHUANIA,
+0011n00002SwuNB,Cancelled,Former Client,2021-07-01,Homeware,Kitchenware,SME,,PHILIPPINES,11105.25
+0010Y00000Zqg8D,Active,Customer,2022-08-11,Sports,Fitness Foods,SME,4000000.0,AUSTRIA,6772.5
+0011n00001xVxt0,Paused,Customer,2022-01-01,"Toys, Kids & baby",Toys,SME,32500.0,UNITED STATES,14373.0
+0011n00002bBaRG,Active,Customer,2022-05-03,Food & Beverage,Packaged Foods,SME,4100000.0,UNITED STATES,2100.0
+0011n00002eTayJ,Active,Customer,2022-12-31,Fashion,Clothing,Mid-Market,263100000.0,UNITED STATES,2005.0
+0010Y00000VbM3C,Cancelled,Former Client,2021-10-01,Homeware,Pets,Mid-Market,,CANADA,
+0011n000025AgR7,Cancelled,Customer,2019-12-15,Fashion,Accessories,SME,11100000.0,UNITED STATES,
+0011n000025AZ3f,Cancelled,Former Client,2019-09-18,Beauty & Personal Care,Personal Care Items,SME,4700000.0,DENMARK,
+0011n000025Auxe,Cancelled,Former Client,2019-09-21,Electronics,Audio,SME,6200000.0,UNITED STATES,
+0010Y00001TqUjx,Active,Customer,2022-11-05,Homeware,Kitchenware,SME,9200000.0,UNITED STATES,6000.0
+0010Y00001UHa3D,Cancelled,Former Client,2019-05-23,Electronics,Appliances,SME,8400000.0,UNITED STATES,
+0011n000029wREG,Cancelled,Former Client,2020-03-04,Fashion,Clothing,SME,5400000.0,UNITED STATES,
+0011n000029OcWe,Cancelled,Former Client,2020-05-02,Beauty & Personal Care,Personal Care Items,SME,1730000.0,UNITED STATES,
+0011n0000259L1q,Active,Customer,2022-01-01,Homeware,Household appliances,Enterprise,1800000000.0,ITALY,1500.0
+0011n0000259OTH,Active,Customer,2022-06-06,Auto,Auto Parts & Accessories,SME,1800000.0,UNITED STATES,
+0011n0000259Nu4,Active,Customer,2022-02-22,Auto,Auto Parts & Accessories,SME,200000.0,AUSTRALIA,1675.0
+0011n0000259MMp,Active,Customer,2022-06-26,Homeware,Kitchenware,SME,20100000.0,UNITED STATES,8271.48
+0011n0000259OJj,Active,Customer,2022-11-12,Beauty & Personal Care,Skin Care,SME,1800000.0,UNITED STATES,3900.0
+0011n0000259MXR,Active,Customer,2022-03-30,Sports,Sporting goods,SME,7200000.0,ITALY,2700.0
+0011n0000259Jb6,Active,Customer,2022-03-24,Beauty & Personal Care,Skin Care,SME,50000000.0,UNITED STATES,10500.0
+0011n0000259O2m,Paused,Customer,2022-01-01,Homeware,Kitchenware,SME,4600000.0,UNITED STATES,1808.1
+0011n0000259LP7,Cancelled,Former Client,2020-08-01,"Toys, Kids & baby",Toys,SME,25300000.0,UNITED STATES,
+0011n0000259MU3,Cancelled,Former Client,2021-06-30,Beauty & Personal Care,Oral Care,SME,5800000.0,UNITED STATES,16750.0
+0011n0000259OGr,Active,Customer,2022-03-14,Beauty & Personal Care,Beauty Gadgets,SME,8400000.0,UNITED STATES,2850.0
+0011n0000259Osn,Cancelled,Former Client,2021-06-30,Construction,Parts and Materials,Mid-Market,70000000.0,SPAIN,907.5
+0011n0000259Osr,Active,Customer,2022-06-30,Sports,Sporting goods,SME,600000.0,AUSTRALIA,3398.0
+0011n0000259Ot1,Active,Customer,2022-01-22,Sports,Sporting goods,SME,22800000.0,CANADA,2770.0
+0011n0000259KRa,Active,Customer,2022-05-10,Beauty & Personal Care,Skin Care,SME,10000000.0,UNITED STATES,2100.0
+0011n0000259ODb,Cancelled,Former Client,2020-02-08,Fashion,Clothing,SME,7400000.0,UNITED STATES,
+0011n0000259MeX,Active,Customer,2021-12-21,Consumer Goods,Arts & Crafts Goods,SME,5000000.0,UNITED STATES,2027.0
+0011n0000259LKT,Active,Customer,2022-09-30,Beauty & Personal Care,Hair Care,SME,35000000.0,UNITED STATES,3026.0
+0011n0000259M2f,Active,Customer,2022-08-02,Fashion,Clothing,SME,1500000.0,UNITED STATES,3360.0
+0011n0000259M5C,Active,Customer,2022-04-22,Sports,Sporting goods,SME,13600000.0,ITALY,4000.0
+0011n0000259Nuo,Active,Customer,2022-06-30,Auto,Auto Parts & Accessories,SME,50000000.0,UNITED STATES,1500.0
+0011n0000259O2x,Active,Customer,2022-11-30,"Toys, Kids & baby",Baby items,SME,28300000.0,UNITED STATES,3555.0
+0011n0000259JTc,Cancelled,Former Client,2021-09-01,Beauty & Personal Care,Skin Care,SME,23700000.0,UNITED STATES,9900.0
+0011n0000259OtC,Active,Customer,2022-02-01,Fashion,Clothing,SME,67400000.0,UNITED KINGDOM,0.0
+0011n0000259P6w,Cancelled,Former Client,2019-10-12,Homeware,Decor,Mid-Market,93000000.0,GERMANY,
+0011n0000259K9n,Active,Customer,2022-11-10,Electronics,Appliances,SME,20000000.0,UNITED KINGDOM,1855.0
+0011n0000259Mei,Active,Customer,2022-10-01,Beauty & Personal Care,Personal Care Items,SME,11000000.0,UNITED STATES,13101.62
+0011n0000259OpO,Active,Customer,2022-06-22,Sports,Sporting goods,SME,400000.0,UNITED STATES,29868.3
+0011n0000259OnU,Cancelled,Former Client,2020-06-01,Fashion,Accessories,SME,4000000.0,UNITED STATES,
+0011n0000259M5f,Active,Customer,2022-10-31,Construction,Tools,Mid-Market,91000000.0,UNITED STATES,2205.0
+0011n0000259MWA,Cancelled,Former Client,2021-04-02,Sports,Sporting goods,SME,22500000.0,DENMARK,3000.0
+0011n0000259MYB,Active,Customer,2022-02-05,Electronics,Appliances,Large Enterprise,7000000000.0,UNITED STATES,6800.0
+0011n0000259NvK,Active,Customer,2022-08-16,Electronics,Appliances,SME,27700000.0,UNITED STATES,1865.0
+0011n0000259OHd,Cancelled,Former Client,2021-12-14,Fashion,Clothing,Mid-Market,115344000.0,UNITED STATES,10846.0
+0011n0000259P7X,Active,Customer,2022-03-06,Health,OTC Medicine,SME,5400000.0,UNITED STATES,26160.0
+0011n0000259MFI,Active,Customer,2022-07-27,Homeware,Kitchenware,Mid-Market,172600000.0,UNITED STATES,5319.35
+0011n0000259OU7,Active,Customer,2022-03-31,Sports,Sporting goods,Large Enterprise,4800000000.0,GERMANY,9600.0
+0011n0000259Mf4,Active,Customer,2022-10-01,Fashion,Accessories,Large Enterprise,75356000000.0,UNITED STATES,29041.38
+0011n0000259K4B,Active,Customer,2022-03-31,Fashion,Clothing,Mid-Market,250000000.0,UNITED STATES,6570.0
+0011n0000259Oq7,Active,Customer,2022-04-01,Sports,Sport apparel,SME,6600000.0,UNITED STATES,3200.0
+0011n0000259PMA,Active,Customer,2022-08-17,Fashion,Footwear,Mid-Market,142000000.0,UNITED STATES,15375.0
+0011n0000259M39,Active,Customer,2022-08-02,Beauty & Personal Care,Personal Care Items,Mid-Market,108400000.0,UNITED STATES,4607.58
+0011n0000259JcB,Active,Customer,2022-09-16,Beauty & Personal Care,Hair Care,SME,5200000.0,UNITED STATES,1520.0
+0011n0000259MVC,Active,Customer,2022-04-30,Beauty & Personal Care,Skin Care,SME,4600000.0,UNITED STATES,4200.0
+0011n0000259NHK,Cancelled,Former Client,2021-08-31,Sports,Sporting goods,SME,6600000.0,UNITED STATES,29630.0
+0011n0000259MfS,Active,Customer,2022-05-12,Fashion,Bags & Luggage,Mid-Market,57100000.0,UNITED KINGDOM,5200.0
+0011n0000259OqU,Cancelled,Former Client,2020-01-31,Fashion,Clothing,SME,3600000.0,ARGENTINA,
+0011n0000259OoC,Active,Customer,2022-08-30,"Toys, Kids & baby",Toys,SME,12900000.0,UNITED STATES,5600.0
+0011n0000259OoG,Active,Customer,2022-04-20,Homeware,Kitchenware,SME,4600000.0,UNITED STATES,1620.0
+0011n0000259PMk,Cancelled,Former Client,2020-11-01,"Toys, Kids & baby",Toys,SME,197000.0,FRANCE,
+0011n0000259MLF,Active,Customer,2022-08-05,Sports,Sports merchandising,SME,29000000.0,UNITED STATES,1800.0
+0011n0000259KkZ,Cancelled,Former Client,2019-08-05,Fashion,Watches,SME,3900000.0,UNITED STATES,
+0011n0000259NQZ,Active,Customer,2022-09-28,"Toys, Kids & baby",Baby items,SME,5400000.0,ISRAEL,3900.0
+0011n0000259OIZ,Cancelled,Former Client,2020-06-05,Sports,Sporting goods,SME,12600000.0,CANADA,
+0011n0000259O6V,Active,Customer,2022-11-01,"Toys, Kids & baby",Toys,SME,22900000.0,UNITED STATES,2150.0
+0011n0000259MmH,Active,Customer,2022-09-21,Beauty & Personal Care,Hair Care,SME,,UNITED STATES,8081.0
+0011n0000259OFD,Active,Customer,2022-11-15,Fashion,Clothing,SME,4200000.0,UNITED STATES,3000.0
+0011n0000259Oqf,Active,Customer,2022-07-30,Beauty & Personal Care,Personal Care Items,Enterprise,1000000000.0,UNITED STATES,15000.0
+0011n0000259JUv,Active,Customer,2022-11-23,Beauty & Personal Care,Personal Care Items,SME,2200000.0,SPAIN,5355.0
+0011n0000259Lxv,Active,Customer,2022-08-29,Beauty & Personal Care,Personal Care Items,SME,8000000.0,SINGAPORE,3908.0
+0011n0000259OYl,Cancelled,Former Client,2020-03-25,Auto,Auto Parts & Accessories,SME,4600000.0,ITALY,
+0011n0000259OuY,Active,Customer,2022-09-30,Fashion,Clothing,SME,16720000.0,AUSTRALIA,850.0
+0011n0000259OOh,Active,Customer,2022-03-31,Construction,Tools,SME,27120000.0,UNITED STATES,0.0
+0011n00002A0O92,Active,Customer,2022-08-20,Construction,Tools,SME,13000000.0,UNITED STATES,5270.0
+0011n00002A01CY,Active,Customer,2023-03-31,Homeware,Household appliances,SME,2800000.0,ITALY,3000.0
+0011n00002A0AEf,Active,Customer,2022-03-11,Consumer Goods,Design materials,SME,961000.0,UNITED STATES,1711.5
+0011n00002Stb02,Active,Customer,2022-01-05,Auto,Auto Parts & Accessories,SME,18000000.0,UNITED STATES,2400.0
+0010Y00001ZKaOk,Cancelled,Former Client,2020-03-31,Homeware,Pets,SME,7400000.0,UNITED STATES,
+0011n000024FSo1,Active,Customer,,Construction,Parts and Materials,Enterprise,1258248000.0,SWITZERLAND,1837.5
+0011n000028rPGn,Active,Customer,2022-06-17,Sports,Sporting goods,SME,,UNITED STATES,1200.0
+0011n000028rHjM,Cancelled,Former Client,2020-04-01,Electronics,Car electronics,SME,5384000.0,ITALY,
+0011n000028rP6z,Paused,Customer,2022-01-01,Homeware,Kitchenware,Mid-Market,348400000.0,UNITED STATES,13650.0
+0011n00002eVWGO,Active,Customer,2022-12-14,Food & Beverage,Wine & Spirits,SME,,UNITED STATES,1660.0
+0011n00001vWXKM,Cancelled,Former Client,2019-10-14,Fashion,Watches,SME,5300000.0,UNITED STATES,
+0011n00001vW0ql,Paused,Customer,2021-12-01,Homeware,Kitchenware,SME,4200000.0,UNITED STATES,
+0011n000025CJIV,Active,Customer,2022-05-22,Beauty & Personal Care,Personal Care Items,SME,4200000.0,UNITED STATES,2415.0
+0011n00002AziWv,Cancelled,Former Client,2020-05-01,Homeware,Furniture,SME,5000000.0,UNITED STATES,
+0011n00002Iy2m9,Active,Customer,2022-06-14,Electronics,Wearables,SME,10000000.0,CHINA,31580.6
+0011n00002J00zI,Active,Customer,2022-05-13,Health,OTC Medicine,Mid-Market,233000000.0,UNITED STATES,8900.0
+0011n00002PIV5K,Active,Customer,2022-05-03,"Toys, Kids & baby",Games,SME,6300000.0,UNITED STATES,6885.0
+0011n00002PIUfg,Paused,Customer,2022-01-01,Sports,Fitness Foods,SME,8898000.0,UNITED STATES,2000.0
+0011n00002gBNrX,Cancelled,Former Client,2021-07-16,Sports,Sports Rights Holders,SME,5000000.0,SPAIN,
+0011n00002gD9qi,Active,Customer,2022-11-25,Sports,Sporting goods,SME,,UNITED STATES,
+0011n00002PFc6M,Active,Customer,2022-06-28,Electronics,Cell phone & laptops & Home Office,SME,1000000.0,UNITED STATES,7885.0
+0011n00002MY0Fa,Active,Customer,2022-05-13,Construction,Tools,SME,28300000.0,UNITED KINGDOM,1630.0
+0011n00002MYKSa,Active,Customer,2022-07-01,Consumer Goods,Stationery,SME,9900000.0,UNITED STATES,5691.0
+0011n00002EPXOn,Cancelled,Former Client,2020-06-21,Consumer Goods,Design materials,SME,4200000.0,UNITED STATES,
+0011n000029UyLg,Cancelled,Former Client,2021-10-01,Law Firm/Partner,Law Firm/Partner,SME,2100000000.0,UNITED STATES,10200.0
+0011n00001rzU3m,Paused,Customer,,Sports,Sporting goods,SME,5800000.0,UNITED STATES,
+0010Y00000z2eOz,Cancelled,Former Client,2019-09-01,Health,Pharmaceutical,SME,10400000.0,CANADA,
+0011n00001vVDsy,Active,Customer,2022-08-25,"Toys, Kids & baby",Toys,SME,397000.0,POLAND,5040.0
+0011n00002WsLuH,Active,Customer,2022-01-27,Publishers,"Print (Books, Magazines, Newspapers)",SME,,UNITED STATES,1800.0
+0011n00002Wr6ti,Active,Customer,2022-04-21,Beauty & Personal Care,Cosmetics,SME,18731000.0,UNITED STATES,5000.0
+0010Y00000BXUus,Active,Customer,2022-03-16,Sports,Sports Clubs,Mid-Market,78000000.0,SPAIN,6646.47
+0010Y00001fGu58,Cancelled,Former Client,2021-04-21,Homeware,Indoor Household goods,SME,4600000.0,UNITED STATES,2154.5
+0011n00002ZtJV4,Active,Customer,2022-08-30,Homeware,Lighting,SME,3896000.0,ITALY,2130.0
+0011n000029LrM9,Active,Customer,2022-06-30,Fashion,Clothing,SME,8000000.0,AUSTRALIA,22789.5
+0010Y00000ZqIV3,Cancelled,Former Client,2019-07-26,Consumer Goods,Stationery,SME,19000000.0,UNITED KINGDOM,
+0010Y00000ctIim,Active,Customer,2022-02-08,Sports,Sport apparel,SME,6800000.0,UNITED STATES,1500.0
+0011n00002Bzc2b,Cancelled,Former Client,2021-09-21,Law Firm/Partner,Law Firm/Partner,SME,3900000.0,SPAIN,
+0011n000028svql,Cancelled,Former Client,2019-11-16,Homeware,Decor,SME,4400000.0,PHILIPPINES,
+0011n0000258oaE,Cancelled,Former Client,2020-09-11,Consumer Goods,Arts & Crafts Goods,SME,33400000.0,UNITED STATES,
+0011n0000259IyJ,Cancelled,Former Client,2020-01-23,Homeware,Kitchenware,SME,,FRANCE,
+0011n00002B1Tuv,Cancelled,Former Client,2020-12-20,Fashion,Clothing,SME,1000000.0,UNITED STATES,
+0011n00001xVnfT,Cancelled,Former Client,2020-04-05,Homeware,Lighting,SME,800000.0,FRANCE,
+0010Y00001ajIhj,Active,Customer,2022-04-22,Consumer Goods,Design materials,SME,266320.0,UNITED STATES,1323.0
+0010Y00001aPrU7,Cancelled,Former Client,2019-06-29,"Toys, Kids & baby",Toys,SME,,UNITED STATES,
+0010Y00001ZrJWk,Active,Customer,2022-01-07,Sports,Sporting goods,SME,1290000.0,UNITED STATES,4900.0
+0010Y00001aiuno,Cancelled,Former Client,2020-03-31,Beauty & Personal Care,Beauty Gadgets,SME,1400000.0,UNITED STATES,
+0010Y00001fz8Mc,Active,Customer,2022-06-11,Homeware,Kitchenware,SME,6500000.0,UNITED STATES,2286.0
+0010Y00000O8ir7,Active,Customer,2022-06-29,Sports,Sport apparel,SME,2400000.0,JAPAN,1785.0
+0010Y00000Uxjam,Cancelled,Former Client,2020-03-01,Fashion,Accessories,SME,1800000.0,UNITED STATES,
+0011n00002PFIoy,Active,Customer,2022-08-31,Food & Beverage,Packaged Foods,Mid-Market,57300000.0,UNITED STATES,
+0011n000022PDk5,Cancelled,Former Client,2019-11-01,Electronics,Audio,SME,11600000.0,UNITED STATES,
+0011n00001iaRZz,Active,Customer,2022-10-10,Fashion,Clothing,SME,22876000.0,DENMARK,2165.87
+0010Y000014pdSK,Paused,Customer,,Construction,Parts and Materials,SME,,ITALY,
+0011n0000259KKl,Cancelled,Former Client,2021-05-01,Consumer Goods,Arts & Crafts Goods,SME,23536000.0,NETHERLANDS,
+0011n0000259PPE,Active,Customer,2022-10-01,Fashion,Clothing,SME,4000000.0,UNITED STATES,15278.4
+0011n0000259M4X,Cancelled,Former Client,2020-04-03,Homeware,Furniture,SME,1300000.0,UNITED STATES,
+0011n0000259Ll1,Cancelled,Former Client,2021-05-01,Auto,Auto Parts & Accessories,Mid-Market,100000000.0,UNITED STATES,17100.0
+0011n0000259O3Z,Cancelled,Former Client,2021-06-01,Homeware,Kitchenware,SME,3800000.0,UNITED STATES,30072.25
+0011n0000259LyC,Active,Customer,2022-07-01,Auto,Car Lighting,SME,27800000.0,BRAZIL,927.0
+0011n0000259LyI,Cancelled,Former Client,2020-08-26,Auto,Auto Parts & Accessories,Large Enterprise,18800000000.0,JAPAN,
+0011n0000259OJJ,Paused,Customer,,Sports,Sport apparel,SME,11900000.0,UNITED STATES,
+0011n0000259Mvz,Cancelled,Former Client,2020-07-08,Electronics,Cell phone & laptops & Home Office,SME,,UNITED STATES,
+0011n0000259OOo,Active,Customer,2022-11-22,Food & Beverage,Packaged Foods,SME,9200000.0,SWEDEN,2495.0
+0011n0000259P92,Active,Customer,2022-02-22,"Toys, Kids & baby",Baby items,SME,3600000.0,BELGIUM,1875.0
+0011n0000259K5O,Active,Customer,2022-10-01,Homeware,Kitchenware,Mid-Market,250000000.0,UNITED STATES,60896.33
+0011n0000259PIG,Cancelled,Former Client,2020-08-01,Homeware,Lighting,SME,3000000.0,AUSTRALIA,
+0011n0000259O4X,Active,Customer,2022-07-28,"Toys, Kids & baby",Toys,SME,50000000.0,UNITED STATES,13500.0
+0011n0000259KEU,Active,Customer,2022-04-14,Homeware,Musical Instruments,SME,7900000.0,GERMANY,2250.0
+0011n0000259MqV,Active,Customer,2022-12-16,Consumer Goods,Stationery,SME,18600000.0,DENMARK,0.0
+0011n0000259NwK,Active,Customer,2022-09-27,Consumer Goods,Arts & Crafts Goods,SME,9200000.0,UNITED KINGDOM,738.0
+0011n0000259OZc,Paused,Customer,2022-01-01,Homeware,Furniture,SME,21400000.0,ITALY,1435.0
+0011n0000259OPA,Active,Customer,2022-08-30,Fashion,Clothing,SME,5800000.0,POLAND,2020.0
+0011n0000259KUB,Active,Customer,2022-03-11,Health,Pharmaceutical,SME,50000000.0,UNITED STATES,5133.0
+0011n0000259KUC,Active,Customer,2022-06-30,Health,OTC Medicine,Mid-Market,102000000.0,CANADA,25000.0
+0011n0000259Naf,Active,Customer,2022-04-15,Electronics,Appliances,SME,6000000.0,UNITED STATES,3000.0
+0011n0000259OFw,Active,Customer,2022-01-09,"Toys, Kids & baby",Baby items,SME,6500000.0,UNITED STATES,2060.0
+0011n0000259Oi5,Cancelled,Former Client,2020-12-04,Homeware,Decor,SME,21000000.0,DENMARK,
+0011n0000259Op4,Active,Customer,2022-09-09,Beauty & Personal Care,Personal Care Items,SME,5200000.0,UNITED STATES,2150.0
+0011n0000259NhU,Active,Customer,2022-04-01,"Toys, Kids & baby",Baby items,SME,405000.0,UNITED STATES,12500.0
+0011n0000259O4I,Active,Customer,2022-04-28,Sports,Sporting goods,Mid-Market,64300000.0,UNITED STATES,3097.5
+0011n0000259O4U,Active,Customer,2022-09-30,Sports,Sport apparel,SME,20000000.0,UNITED STATES,1650.0
+0011n0000259NoE,Active,Customer,2022-07-20,Homeware,Lighting,SME,4300000.0,AUSTRALIA,2925.0
+0011n0000259O9o,Active,Customer,2022-06-30,Fashion,Watches,Mid-Market,63388000.0,AUSTRALIA,14000.0
+0011n0000259OQg,Cancelled,Former Client,2021-03-18,Homeware,Kitchenware,SME,31600000.0,UNITED STATES,9450.0
+0011n0000259Kp7,Active,Customer,2022-04-19,Fashion,Accessories,SME,10000000.0,UNITED STATES,2415.0
+0011n0000259MkE,Active,Customer,2022-11-18,Fashion,Undergarments,SME,9600000.0,UNITED STATES,1653.75
+0011n0000259OiC,Active,Customer,2021-12-31,Auto,Auto Parts & Accessories,Large Enterprise,29700000000.0,UNITED KINGDOM,69999.96
+0011n0000259MbC,Active,Customer,2022-07-13,Beauty & Personal Care,Personal Care Items,SME,12100000.0,UNITED STATES,5118.75
+0011n0000259LHT,Active,Customer,2022-08-31,Fashion,Eyewear,Mid-Market,601900000.0,ITALY,23385.0
+0011n0000259Nhy,Active,Customer,2022-01-18,Fashion,Clothing,SME,5600000.0,UNITED STATES,1950.0
+0011n0000259O4m,Active,Customer,2022-07-06,Homeware,Furniture,Mid-Market,285800000.0,UNITED STATES,3730.0
+0011n0000259O4o,Active,Customer,2022-07-05,Fashion,Clothing,Mid-Market,100000000.0,UNITED STATES,2331.79
+0011n0000259MxK,Active,Customer,2022-12-17,Entertainment,Entertainment studios,Mid-Market,267000000.0,FRANCE,0.0
+0011n0000259Kpa,Cancelled,Former Client,2020-01-17,"Toys, Kids & baby",Toys,SME,15600000.0,DENMARK,
+0011n0000259Nrl,Cancelled,Former Client,2020-02-09,Consumer Goods,Arts & Crafts Goods,SME,384000.0,UNITED STATES,
+0011n0000259LHq,Active,Customer,2022-04-22,Beauty & Personal Care,Sex Toys,SME,12300000.0,UNITED STATES,2762.5
+0011n0000259JiB,Cancelled,Former Client,2021-08-03,Homeware,Kitchenware,Mid-Market,222600000.0,UNITED STATES,4400.0
+0011n0000259NSo,Active,Customer,2022-08-30,"Toys, Kids & baby",Baby items,SME,200000.0,UNITED KINGDOM,328.0
+0011n0000259OAQ,Active,Customer,2022-05-31,Beauty & Personal Care,Skin Care,SME,50000000.0,UNITED STATES,2950.0
+0011n0000259OAX,Active,Customer,2022-04-26,Homeware,Lighting,SME,5600000.0,CANADA,8550.0
+0011n0000259Of2,Active,Customer,2022-07-13,Homeware,Outdoor Household Goods,SME,46300000.0,UNITED STATES,2000.0
+0011n0000259Of7,Active,Customer,2022-03-04,Fashion,Accessories,SME,1600000.0,FRANCE,5290.0
+0011n0000259OfC,Active,Customer,2022-05-10,Sports,Sports Clubs,SME,12100000.0,FRANCE,6250.0
+0011n0000259P3e,Cancelled,Former Client,2021-02-03,Electronics,Cell Phone & Accessories,SME,50000000.0,UNITED STATES,
+0011n0000259NKl,Cancelled,Former Client,2020-05-05,Sports,Sporting goods,SME,1300000.0,LATVIA,
+0011n0000259NsO,Active,Customer,2022-06-29,Electronics,Appliances,Large Enterprise,14000000000.0,UNITED STATES,11125.0
+0011n0000259Ok9,Active,Customer,2022-10-21,Fashion,Clothing,SME,5190000.0,UNITED STATES,2500.0
+0011n0000259OkJ,Active,Customer,2021-12-31,Homeware,Lighting,SME,13300000.0,UNITED KINGDOM,2200.0
+0011n0000259OkP,Active,Customer,2022-09-14,Fashion,Accessories,SME,41700000.0,UNITED STATES,4770.0
+0011n0000259KMl,Active,Customer,2023-09-09,Fashion,Eyewear,SME,22727000.0,UNITED STATES,1470.0
+0011n0000259Nij,Active,Customer,2022-09-26,Homeware,Lighting,Mid-Market,51100000.0,GERMANY,1750.0
+0011n0000259LWX,Active,Customer,2022-09-24,Homeware,Household appliances,SME,49800000.0,UNITED STATES,4987.5
+0011n0000259MSI,Active,Customer,2022-07-01,Fashion,Clothing,SME,11630000.0,ITALY,8880.0
+0011n0000259Np9,Active,Customer,2022-10-01,Homeware,Kitchenware,SME,5100000.0,UNITED STATES,250.0
+0011n0000259MO0,Active,Customer,2021-12-31,Homeware,Pets,Mid-Market,250000000.0,UNITED STATES,8320.0
+0011n0000259OfZ,Cancelled,Former Client,2020-02-01,Fashion,Footwear,SME,7400000.0,ITALY,
+0011n0000259LjK,Cancelled,Former Client,2021-07-01,Sports,Sporting goods,SME,19900000.0,UNITED STATES,11800.0
+0011n0000259JsQ,Active,Customer,2022-09-02,Electronics,Appliances,Mid-Market,271600000.0,UNITED STATES,7855.26
+0011n0000259JlR,Cancelled,Former Client,2020-05-01,Construction,Parts and Materials,SME,4600000.0,UNITED STATES,
+0011n0000259LnE,Cancelled,Former Client,2019-10-03,Sports,Sporting goods,SME,2000000.0,UNITED STATES,
+0011n0000259Nik,Active,Customer,2022-08-28,Sports,Fitness Foods,Large Enterprise,4900000000.0,UNITED STATES,
+0011n0000259L0i,Cancelled,Former Client,2021-11-01,Fashion,Clothing,SME,41700000.0,UNITED STATES,1350.0
+0011n0000259OhK,Active,Customer,2022-08-31,Fashion,Clothing,SME,30000000.0,ITALY,6000.0
+0011n0000259OhN,Active,Customer,2022-10-05,Fashion,Clothing,SME,2800000.0,UNITED STATES,2835.0
+0011n0000259KPW,Active,Customer,2022-08-19,Fashion,Undergarments,SME,15700000.0,UNITED STATES,4025.81
+0011n0000259MAq,Active,Customer,2022-05-10,Fashion,Accessories,Mid-Market,51512000.0,UNITED STATES,15000.0
+0011n0000259KW7,Active,Customer,2022-06-06,Electronics,Appliances,Mid-Market,59900000.0,NETHERLANDS,2600.0
+0011n0000259Nia,Active,Customer,2022-09-22,Sports,Sport apparel,SME,23000000.0,ITALY,1833.0
+0011n0000259Olr,Active,Customer,2022-06-04,Fashion,Clothing,SME,3200000.0,UNITED STATES,1323.0
+0011n0000259Olu,Cancelled,Former Client,2021-05-11,Homeware,Furniture,SME,7900000.0,UNITED STATES,1650.0
+0011n0000259NBo,Active,Customer,2022-09-13,Auto,Auto Parts & Accessories,SME,,UNITED KINGDOM,3184.0
+0011n0000259JjX,Active,Customer,2022-03-08,Homeware,Kitchenware,SME,4200000.0,UNITED STATES,500.0
+0011n0000259OSW,Active,Customer,2022-01-28,Homeware,Other,SME,1000000.0,UNITED STATES,1750.0
+0011n0000259OSi,Active,Customer,2022-09-22,Auto,Auto Parts & Accessories,Mid-Market,100000000.0,UNITED STATES,4373.71
+0011n0000259PFO,Active,Customer,,Beauty & Personal Care,Beauty Gadgets,SME,8900000.0,UNITED STATES,1650.0
+0011n0000259KBY,Active,Customer,2022-02-15,Law Firm/Partner,Law Firm/Partner,SME,1400000.0,UNITED STATES,24000.0
+0011n0000259KBk,Cancelled,Former Client,2020-08-01,Health,Medical Goods,Large Enterprise,2645822000.0,DENMARK,
+0011n0000259NbV,Active,Customer,2022-08-27,Construction,Tools,SME,27200000.0,UNITED STATES,850.0
+0011n0000259Ozz,Active,Customer,2022-06-15,Fashion,Clothing,Mid-Market,168900000.0,UNITED STATES,21348.65
+0011n0000259JmX,Cancelled,Former Client,2020-11-01,"Toys, Kids & baby",Toys,SME,38400000.0,UNITED STATES,
+0011n0000259Mne,Active,Customer,2022-07-06,Sports,Sporting goods,SME,25400000.0,UNITED STATES,10000.0
+0011n0000259Mnh,Active,Customer,2022-11-29,Homeware,Lighting,SME,192000.0,ITALY,1100.0
+0011n0000259Kj7,Active,Customer,2022-09-01,Fashion,Clothing,SME,1200000.0,UNITED STATES,1575.9
+0011n0000259LzH,Active,Customer,2022-09-10,Fashion,Clothing,Mid-Market,226000000.0,UNITED STATES,1590.0
+0011n0000259Jjf,Active,Customer,2022-09-28,Homeware,Kitchenware,SME,5808000.0,GERMANY,1496.0
+0011n0000259MTP,Active,Customer,2022-04-12,Sports,Sport apparel,Mid-Market,8900000.0,FRANCE,7267.0
+0011n0000259Ogf,Active,Customer,2022-08-01,Fashion,Headwear,SME,,UNITED STATES,4245.0
+0011n0000259L3T,Active,Customer,2022-09-30,Homeware,Decor,SME,12800000.0,UNITED STATES,4221.0
+0011n0000259Ntr,Active,Customer,2022-06-24,Auto,Auto Parts & Accessories,SME,28100000.0,ITALY,3150.0
+0011n0000259OCw,Cancelled,Former Client,2021-05-01,Electronics,Cell Phone & Accessories,SME,7900000.0,UNITED STATES,0.0
+0011n0000259JxL,Cancelled,Former Client,2021-12-14,Fashion,Accessories,SME,,UNITED KINGDOM,4100.0
+0011n0000259OyI,Active,Customer,2022-09-08,Homeware,Furniture,SME,25100000.0,AUSTRALIA,5250.0
+0011n0000259MWs,Active,Customer,2022-12-31,"Toys, Kids & baby",Toys,Mid-Market,75000000.0,UNITED STATES,1006.31
+0010Y00001dQXvK,Active,Customer,2022-02-28,Fashion,Clothing,Large Enterprise,3197995000.0,GERMANY,4000.0
+0011n00001jrGNy,Cancelled,Former Client,2021-05-01,Homeware,Kitchenware,Enterprise,895093000.0,UNITED STATES,32400.0
+0010Y00001dPe8y,Cancelled,Former Client,2020-02-15,Fashion,Clothing,SME,17700000.0,ITALY,
+0010Y00000l8Xnp,Cancelled,Former Client,2020-03-31,Beauty & Personal Care,Skin Care,SME,6200000.0,UNITED STATES,
+0011n00001pYTyJ,Active,Customer,2022-09-30,Homeware,Kitchenware,SME,952000.0,GERMANY,1900.0
+0010Y00000M4RTZ,Cancelled,Former Client,2020-05-28,Fashion,Accessories,SME,5500000.0,UNITED STATES,
+0011n00002C1mbf,Cancelled,Former Client,2020-08-26,Auto,Auto Parts & Accessories,Enterprise,1000000000.0,JAPAN,
+0010Y00000WTkUB,Active,Customer,2022-04-01,"Toys, Kids & baby",Toys,SME,,FRANCE,2400.0
+0011n00001vURdf,Active,Customer,2022-08-19,Beauty & Personal Care,Cosmetics,Mid-Market,139900000.0,UNITED KINGDOM,1725.0
+0011n00001lHaav,Cancelled,Former Client,2020-01-10,Fashion,Clothing,SME,24100000.0,CANADA,
+0010Y00001Bo7bD,Active,Customer,,Sports,Sports Clubs,SME,24000000.0,SPAIN,2032.8
+0010Y00001BopyW,Active,Customer,2022-04-30,Electronics,Appliances,SME,27400000.0,NETHERLANDS,1980.0
+0011n00001rwMg2,Active,Customer,2022-12-19,Sports,Sport apparel,SME,,UNITED STATES,3885.0
+0010Y00000TPxRE,Active,Customer,2022-06-12,Homeware,Kitchenware,SME,22700000.0,UNITED KINGDOM,1123.5
+0010Y00000JROpK,Active,Customer,2022-02-28,Homeware,Lighting,SME,16498000.0,SPAIN,726.0
+0011n00002FMLtd,Cancelled,Former Client,2021-05-01,Beauty & Personal Care,Personal Care Items,SME,0.0,CYPRUS,8770.0
+0011n00002HFfv5,Cancelled,Former Client,2021-10-23,Construction,Parts and Materials,SME,17400000.0,UNITED STATES,975.0
+0010Y00000JROpI,Active,Customer,2022-11-29,Auto,Auto Parts & Accessories,SME,26740000.0,UNITED KINGDOM,600.0
+0010Y00000JROp0,Active,Customer,2022-08-04,Fashion,Eyewear,SME,1900000.0,UNITED STATES,2000.0
+0011n0000259LTH,Cancelled,Former Client,2021-01-06,Homeware,Lighting,SME,8600000.0,LATVIA,
+0011n0000259OWb,Active,Customer,2022-12-31,Sports,Sport apparel,Large Enterprise,3516188000.0,JAPAN,0.0
+0010Y00000JROoz,Active,Customer,2022-04-13,Fashion,Eyewear,SME,35000000.0,SPAIN,13068.0
+0011n00002HGb7s,Cancelled,Former Client,2021-06-01,Health,OTC Medicine,SME,6000000.0,UNITED STATES,1950.0
+0011n00002eV4ty,Active,Customer,2022-06-06,Electronics,Radio Control Electronics,SME,,UNITED KINGDOM,895.0
+0011n00002gBjzT,Active,Customer,2022-07-20,Construction,Tools,SME,4200000.0,UNITED KINGDOM,1662.0
+0011n00002HImvC,Active,Customer,2022-01-27,Health,Medical Goods,SME,4600000.0,UNITED STATES,1723.05
+0011n00002IzUue,Cancelled,Former Client,2021-11-01,Beauty & Personal Care,Personal Care Items,Mid-Market,250000000.0,SPAIN,1216.05
+0011n00002MZAW4,Cancelled,Former Client,2021-01-10,Construction,Parts and Materials,Mid-Market,550000000.0,UNITED STATES,
+0011n00002jIx12,Active,Customer,2022-09-27,Entertainment,TV,SME,,UNITED STATES,
+0011n00002jHORx,Active,Customer,2022-08-26,Beauty & Personal Care,Personal Care Items,SME,,UNITED STATES,1500.0
+0010Y00000JROp8,Active,Customer,2022-05-10,Beauty & Personal Care,Sex Toys,Mid-Market,444400000.0,UNITED STATES,1000.0
+0010Y00000JROpA,Active,Customer,2022-06-15,Homeware,Kitchenware,SME,7200000.0,ITALY,23203.07
+0010Y00000JROpF,Active,Customer,2022-07-07,Software,Software,SME,37000000.0,GERMANY,1200.0
+0010Y00000JROpL,Active,Customer,2021-12-31,Homeware,Lighting,SME,36892000.0,SPAIN,1621.4
+0010Y00000JROpM,Active,Customer,2022-10-02,Homeware,Lighting,SME,3800000.0,FRANCE,2000.0
+0010Y00000JROoi,Active,Customer,2021-12-31,Sports,Football,Enterprise,1000000000.0,SPAIN,124772.99
+0010Y00000JROoj,Cancelled,Former Client,2021-02-12,Sports,Football,SME,,SPAIN,
+0010Y00000JROok,Cancelled,Former Client,2019-08-07,Sports,Sporting goods,SME,,SPAIN,
+0010Y00000JROoq,Active,Customer,2022-04-12,Sports,Sports merchandising,SME,,SPAIN,1028.5
+0010Y00000JROor,Active,Customer,2022-06-30,Sports,Sports merchandising,SME,,SPAIN,242.0
+0010Y00000JROp1,Active,Customer,2022-10-17,Beauty & Personal Care,Personal Care Items,Mid-Market,182600000.0,UNITED STATES,1500.0
+0010Y00000JROp2,Paused,Customer,,Beauty & Personal Care,Beauty Gadgets,SME,3450000.0,UNITED KINGDOM,
+0010Y00000JROp5,Active,Customer,2022-03-17,Beauty & Personal Care,Sex Toys,SME,,UNITED STATES,3280.2
+0010Y00000JROpD,Active,Customer,2022-04-30,"Toys, Kids & baby",Toys,SME,4400000.0,MEXICO,59400.0
+0011n00002bB9SF,Active,Customer,2022-05-09,Sports,Firearms,SME,,UNITED STATES,16660.02
+0010Y00000sCTiw,Paused,Customer,,Sports,Sporting goods,SME,,UNITED STATES,
+0011n00001vTRQc,Active,Customer,2022-04-12,Homeware,Decor,SME,3200000.0,LUXEMBOURG,2420.0
+0011n00001vTXtJ,Cancelled,Former Client,2021-01-17,Beauty & Personal Care,Skin Care,SME,1000000.0,HUNGARY,
+0011n00001vSY0y,Active,Customer,2022-06-09,Others,Other,Enterprise,1000000000.0,UNITED KINGDOM,7441.0
+0011n00001tGrZO,Paused,Customer,2022-02-15,Sports,Sporting goods,SME,5600000.0,UNITED STATES,14850.0
+0011n00001vTRGk,Active,Customer,2022-06-30,Homeware,Decor,SME,,FRANCE,2670.0
+0011n00002B0cv4,Cancelled,Former Client,2019-12-11,Fashion,Clothing,SME,192200.0,SWEDEN,
+0011n00001pyN1N,Paused,Customer,,Sports,Sporting goods,SME,,ITALY,
+0011n00001rwOW9,Active,Customer,2022-06-30,Sports,Hunting,SME,200000.0,ITALY,892.5
+0010Y00000TQCag,Active,Customer,2022-01-01,"Toys, Kids & baby",Toys,SME,4934000.0,ISRAEL,2000.0
+0010Y00000TQCfK,Active,Customer,2022-12-31,Homeware,Decor,SME,25500000.0,ITALY,1800.0
+0010Y00000GQGyj,Active,Customer,2022-05-31,Homeware,Appliances,SME,34500000.0,LUXEMBOURG,600.0
+0010Y00000JTUjt,Cancelled,Former Client,2020-05-31,Homeware,Furniture,SME,,FINLAND,
+0011n00001xVmK8,Cancelled,Former Client,2021-07-01,"Toys, Kids & baby",Toys,SME,20200000.0,SPAIN,4422.55
+0010Y00000XtSZv,Cancelled,Former Client,2019-06-06,Beauty & Personal Care,Beauty Gadgets,SME,,UNITED KINGDOM,
+0010Y00000JROoy,Active,Customer,2022-09-09,Fashion,Undergarments,SME,15000000.0,UNITED STATES,0.0
+0011n00002eUKRq,Active,Customer,2022-08-26,Fashion,Eyewear,SME,,UNITED STATES,2850.0
+0011n00002eUPZB,Active,Customer,2022-05-31,Fashion,Clothing,SME,,UNITED STATES,8250.0
+0011n00002gDchQ,Active,Customer,2022-09-20,"Toys, Kids & baby",Baby items,SME,,UNITED STATES,
+0011n00002gC8i9,Active,Customer,2022-07-19,Beauty & Personal Care,Personal Care Items,SME,,UNITED STATES,10993.55
+0011n00002eWNDk,Active,Customer,2022-06-21,Fashion,Accessories,SME,,SPAIN,2819.3
+0011n00002gCelQ,Active,Customer,2022-09-21,Construction,Parts and Materials,SME,,DENMARK,430.0
+0011n00002FMDGc,Active,Customer,2022-08-10,Beauty & Personal Care,Skin Care,SME,10800000.0,UNITED STATES,5916.75
+0011n00002HGwWC,Cancelled,Former Client,2021-09-01,Law Firm/Partner,Law Firm/Partner,SME,1400000.0,CANADA,3296.0
+0011n00002humhW,Active,Customer,2022-01-27,Health,Medical Devices,SME,,UNITED STATES,6759.68
+0010Y00000ZrUUU,Active,Customer,2022-04-20,Homeware,Outdoor Household Goods,SME,4000000.0,HONG KONG,7182.0
+0010Y00000NXTgl,Active,Customer,2022-12-19,Beauty & Personal Care,Beauty Gadgets,SME,,ITALY,2450.0
+0010Y00000DGfw7,Paused,Customer,,Homeware,Lighting,SME,5400000.0,SPAIN,
+0010Y00000JROot,Active,Customer,2022-07-01,Fashion,Footwear,SME,37500000.0,UNITED STATES,5250.0
+0011n00002EzRR3,Active,Customer,2022-09-12,Fashion,Footwear,SME,,ITALY,3225.0
+0011n00001iux37,Cancelled,Former Client,2020-07-01,Fashion,Accessories,SME,9600000.0,UNITED STATES,
+0011n00001iAZM0,Cancelled,Former Client,2019-08-04,Fashion,Bags & Luggage,SME,4200000.0,UNITED KINGDOM,
+0011n00001itxkk,Cancelled,Former Client,2020-09-01,Fashion,Clothing,SME,7990000.0,UNITED STATES,
+0011n00002bC2wq,Active,Customer,2022-04-19,Fashion,Clothing,SME,,GERMANY,1800.0
+0010Y00000DEqan,Active,Customer,2022-10-31,Beauty & Personal Care,Personal Care Items,SME,6100000.0,HONG KONG,19200.0
+0010Y00000JTLVQ,Active,Customer,2022-09-07,Beauty & Personal Care,Beauty Gadgets,SME,5800000.0,UNITED STATES,1848.0
+0010Y000015Jj5m,Active,Customer,2022-04-14,Beauty & Personal Care,Beauty Gadgets,SME,5400000.0,SPAIN,1524.6
+0011n00002Ec2Si,Active,Customer,2022-10-31,Health,OTC Medicine,SME,3600000.0,CANADA,4563.0
+0010Y00000ZHrvg,Active,Customer,2022-03-21,Sports,Sporting goods,SME,5300000.0,ITALY,900.0
+0010Y00000LJ4OX,Active,Customer,2022-10-08,Fashion,Accessories,SME,4000000.0,UNITED STATES,1650.0
+0011n00002Bz98N,Cancelled,Former Client,2021-02-06,Homeware,Kitchenware,SME,,GERMANY,
+0011n00001wzBJa,Active,Customer,2022-09-16,"Toys, Kids & baby",Baby items,SME,8600000.0,UNITED STATES,1323.0
+0011n00001wztmt,Cancelled,Former Client,2019-06-11,Homeware,Kitchenware,SME,3600000.0,UNITED STATES,
+0011n00001wybHm,Cancelled,Former Client,2020-03-18,"Toys, Kids & baby",Toys,SME,,FRANCE,
+0011n00002YsGbV,Active,Customer,2022-03-22,Auto,Auto Parts & Accessories,SME,,SPAIN,2117.5
+0011n0000259Ikd,Active,Customer,2022-02-15,Homeware,Lighting,SME,14000000.0,GERMANY,1932.0
+0010Y00000jDbjb,Cancelled,Former Client,2019-05-01,Homeware,Furniture,SME,2800000.0,DENMARK,
+0011n0000259P1T,Active,Customer,2022-07-05,Electronics,Appliances,Large Enterprise,260000000000.0,UNITED STATES,39000.0
+0010Y00001c2Xoq,Active,Customer,2022-05-31,"Toys, Kids & baby",Toys,SME,3652000.0,BELGIUM,2712.15
+0010Y00001ZrKP9,Cancelled,Former Client,2021-11-01,Sports,Sport apparel,SME,44534000.0,UNITED STATES,1543.5
+0010Y00001ZSDph,Active,Customer,2022-12-02,Fashion,Accessories,SME,23000000.0,DENMARK,1500.0
+0010Y00000LHfhk,Cancelled,Former Client,2020-03-31,Fashion,Accessories,SME,10573000.0,UNITED STATES,
+0011n00001xVI4O,Cancelled,Former Client,2020-03-26,Auto,Auto Parts & Accessories,SME,6400000.0,UNITED STATES,
+0011n000022PPBe,Cancelled,Former Client,2021-05-01,Electronics,Smart Home & Security,Mid-Market,60196000.0,POLAND,0.0
+0011n00001nSli3,Cancelled,Former Client,2020-04-16,Homeware,Household appliances,SME,,UNITED STATES,
+0011n00001nPygm,Active,Customer,2022-10-01,Beauty & Personal Care,Hair Care,Mid-Market,500000000.0,UNITED STATES,7469.19
+0010Y00000mzPHC,Active,Customer,2022-01-01,Sports,Sports Clubs,Enterprise,,SPAIN,5031.91
+0011n0000258p6Y,Active,Customer,2022-05-01,"Toys, Kids & baby",Toys,SME,2000000.0,UNITED STATES,1200.0
+0010Y00000n03bN,Cancelled,Former Client,2020-04-01,Homeware,Lighting,SME,38000000.0,UNITED STATES,
+0011n0000258ft8,Cancelled,Former Client,2021-11-01,Auto,Auto Parts & Accessories,SME,406000.0,AUSTRALIA,46000.0
+0010Y00001366wh,Active,Customer,2022-01-29,Auto,Auto Parts & Accessories,SME,76000.0,UNITED STATES,10500.0
+0011n000024BB8l,Active,Customer,2022-02-03,Consumer Goods,Design materials,SME,2000000.0,UNITED STATES,9721.25
+0011n000025BPJX,Cancelled,Former Client,2021-01-01,Electronics,Cell phone & laptops & Home Office,Mid-Market,52000000.0,UNITED STATES,
+0010Y00000myceU,Cancelled,Former Client,2019-04-22,Sports,General Sports,SME,13200000.0,FRANCE,
+0010Y00000ILXuz,Active,Customer,2022-03-31,Fashion,Accessories,SME,1000000.0,MONACO,2700.0
+0010Y00000PwNhT,Active,Customer,2022-09-30,Fashion,Accessories,SME,3075000.0,UNITED STATES,1560.0
+0010Y00000BYD7D,Cancelled,Former Client,2019-05-22,Fashion,Clothing,SME,400000.0,TURKEY,
+0010Y00000HCyBC,Cancelled,Former Client,2019-10-06,Consumer Goods,Stationery,SME,37300000.0,SPAIN,
+0011n00002RFtGw,Active,Customer,2022-09-22,Fashion,Clothing,SME,962000.0,UNITED STATES,
+0010Y00000MHHA1,Paused,Customer,,Sports,Hunting,SME,6000000.0,UNITED STATES,
+0010Y00000NXUiV,Paused,Customer,,Fashion,Accessories,SME,5000000.0,UNITED STATES,
+0011n00001vT0tT,Cancelled,Former Client,2020-02-01,Fashion,Clothing,Mid-Market,135800000.0,FINLAND,
+0011n00001vSebV,Active,Customer,2022-03-01,"Toys, Kids & baby",Games,SME,794000.0,CANADA,1900.0
+0011n00001tH5IU,Cancelled,Former Client,2020-03-31,Homeware,Kitchenware,Large Enterprise,3142000000.0,UNITED STATES,
+0011n00001vSxHX,Active,Customer,2022-10-11,Sports,Sporting goods,SME,38000000.0,UNITED STATES,4000.0
+0011n00001vSStp,Paused,Customer,2022-01-01,Fashion,Clothing,SME,2000000.0,AUSTRALIA,450.0
+0010Y00000mxJtR,Cancelled,Former Client,2019-09-28,Sports,Sporting goods,Mid-Market,270000000.0,FRANCE,
+0011n00002QWZsu,Cancelled,Former Client,2021-05-01,Health,Medical Goods,SME,8000000.0,UNITED STATES,0.0
+0011n00002hvBd9,Active,Customer,2022-09-01,Auto,Auto Parts & Accessories,SME,600000000.0,UNITED STATES,6600.0
+0010Y00000f07WK,Active,Customer,2022-11-10,Sports,Sport apparel,SME,384000.0,UNITED STATES,1300.0
+0010Y00001BopIt,Active,Customer,2022-03-22,Beauty & Personal Care,Skin Care,SME,19700000.0,UNITED STATES,3000.0
+0010Y000016y3PP,Active,Customer,2022-07-31,Sports,Sporting goods,SME,5900000.0,UNITED STATES,1656.78
+0010Y00001BmrZc,Cancelled,Former Client,2019-05-17,Entertainment,"Movies, Music, TV",SME,6500000.0,UNITED STATES,
+0011n00001rwjJs,Active,Customer,2022-08-14,Homeware,Furniture,SME,2000000.0,BELGIUM,2150.0
+0011n00001rwbyL,Active,Customer,2022-05-31,Consumer Goods,Other,Large Enterprise,152700000000.0,UNITED STATES,0.0
+0011n00002EPhXg,Active,Customer,2022-12-01,Fashion,Accessories,SME,50000000.0,JAPAN,3028.5
+0010Y00000Xsgax,Cancelled,Former Client,2020-03-30,Homeware,Lighting,SME,35970000.0,UNITED STATES,
+0010Y00000XruAo,Cancelled,Former Client,2020-01-12,Beauty & Personal Care,Skin Care,SME,21630000.0,CZECH REPUBLIC,
+0011n000022NQIw,Active,Customer,2022-12-15,"Toys, Kids & baby",Baby items,SME,4000000.0,CANADA,0.0
+0010Y00000JROp7,Paused,Customer,,Beauty & Personal Care,Personal Care Items,SME,12236000.0,UNITED STATES,
+0011n00002GDqVO,Active,Customer,2022-04-29,Consumer Goods,Arts & Crafts Goods,SME,11500000.0,AUSTRALIA,10350.0
+0010Y00000JROow,Active,Customer,2022-11-16,Fashion,Watches,SME,28000000.0,UNITED STATES,1600.0
+0011n00002FN9iZ,Active,Customer,2022-01-01,Auto,Auto Parts & Accessories,Mid-Market,126061000.0,FRANCE,0.0
+0011n00002HGyhW,Active,Customer,2022-08-12,Consumer Goods,Design materials,SME,40500000.0,UNITED STATES,3420.0
+0011n00002gAiW8,Paused,Customer,2022-06-30,Fashion,Clothing,SME,,UNITED STATES,
+0011n00002hvbO5,Active,Customer,2022-08-23,Sports,Sporting goods,SME,,UNITED STATES,9241.94
+0010Y000005CqNd,Active,Customer,2022-02-28,Beauty & Personal Care,Skin Care,SME,773000.0,CANADA,1600.0
+0011n00002QWQXJ,Active,Customer,2022-01-31,Consumer Goods,Design materials,SME,,UNITED STATES,2836.0
+0011n00002PEwSP,Cancelled,Former Client,2021-04-09,Auto,Auto Parts & Accessories,SME,14030000.0,ITALY,3400.0
+0011n00002PEud3,Cancelled,Former Client,2021-09-19,Sports,Sporting goods,SME,7600000.0,UNITED STATES,6375.0
+0011n00002QWnlw,Active,Customer,2022-09-23,Auto,Oil & other liquid materials,Mid-Market,245000000.0,UNITED STATES,3080.0
+0010Y00000SJVGz,Paused,Customer,,Fashion,Clothing,SME,,POLAND,
+0011n00001xXoHn,Paused,Customer,2021-12-01,Health,Other,SME,6400000.0,UNITED STATES,8400.0
+0010Y00000sCozC,Active,Customer,2022-08-26,Fashion,Clothing,SME,6540000.0,GERMANY,2230.0
+0011n00001vWTcY,Cancelled,Former Client,2019-03-06,Beauty & Personal Care,Personal Care Items,SME,4000000.0,UNITED STATES,
+0010Y00000qdF2g,Active,Customer,2022-04-30,"Toys, Kids & baby",Toys,SME,5200000.0,NETHERLANDS,1943.0
+0010Y00001D4cQB,Active,Customer,2022-09-24,Homeware,Furniture,Mid-Market,75000000.0,UNITED STATES,1250.0
+0011n00002B0OQI,Cancelled,Former Client,2020-03-18,Health,OTC Medicine,SME,,UNITED STATES,
+0011n00002B0Pcz,Cancelled,Former Client,2020-06-21,Sports,Sporting goods,SME,3000000.0,AUSTRALIA,
+0011n000024Eme2,Active,Customer,2022-10-31,Homeware,Pets,SME,4500000.0,UNITED STATES,652.5
+0011n000024Abh9,Cancelled,Former Client,2020-04-25,Beauty & Personal Care,Skin Care,SME,2800000.0,UNITED ARAB EMIRATES,
+0010Y00000ZsQxr,Active,Customer,2022-01-04,Fashion,Clothing,SME,34600000.0,UNITED STATES,15530.0
+0011n00001xVajo,Cancelled,Former Client,2020-03-18,"Toys, Kids & baby",Toys,Mid-Market,50400000.0,UNITED STATES,
+0010Y00001c5tNB,Cancelled,Former Client,2021-06-01,Homeware,Pets,SME,394000.0,UNITED STATES,16251.0
+0010Y00001c5oSg,Cancelled,Former Client,2019-09-30,Fashion,Luxury Goods,Large Enterprise,11100000000.0,FRANCE,
+0010Y00001fyYUY,Cancelled,Former Client,2021-01-01,Fashion,Accessories,SME,5100000.0,BELGIUM,
+0010Y00001c6Jmn,Cancelled,Former Client,2019-05-26,"Toys, Kids & baby",Baby items,SME,6400000.0,UNITED STATES,
+0010Y00000Xsopl,Cancelled,Former Client,2020-04-01,Electronics,Audio,Mid-Market,528500000.0,DENMARK,
+0010Y00000VbG0V,Active,Customer,2022-11-14,Homeware,Pets,SME,1000000.0,UNITED STATES,1575.0
+0010Y00000VbDuq,Active,Customer,2022-07-31,Fashion,Clothing,Mid-Market,20140000.0,UNITED STATES,2100.0
+0011n00001rzyzP,Active,Customer,2022-11-19,Homeware,Lighting,SME,5800000.0,FRANCE,1950.0
+0010Y00001gLFjj,Cancelled,Former Client,2020-03-14,Homeware,Kitchenware,SME,12100000.0,UNITED STATES,
+0011n00001s03Rh,Cancelled,Former Client,2019-06-01,Sports,Sporting goods,SME,15600000.0,CANADA,
+0011n00001tHZVn,Cancelled,Former Client,2019-09-01,Fashion,Clothing,SME,5200000.0,PORTUGAL,
+0011n00001tHnoM,Cancelled,Former Client,2019-11-15,Beauty & Personal Care,Personal Care Items,SME,4200000.0,UNITED STATES,
+0011n00001tFxH3,Cancelled,Former Client,2020-03-28,Electronics,Appliances,SME,10900000.0,GERMANY,
+0011n00002D5VFL,Active,Customer,2022-06-29,Homeware,Pets,SME,1400000.0,UNITED STATES,2730.0
+0011n00002D4zjL,Active,Customer,2022-10-31,Beauty & Personal Care,Skin Care,SME,7700000.0,UNITED STATES,1000.0
+0011n00002D54b6,Active,Customer,2022-06-13,Sports,Firearms,SME,222200000.0,UNITED STATES,1800.0
+0010Y00001gLL0Y,Cancelled,Former Client,2021-12-13,Fashion,Accessories,SME,12500000.0,UNITED STATES,15300.0
+0011n00001tDyo2,Cancelled,Former Client,2019-02-28,Fashion,Accessories,SME,,GERMANY,
+0011n00001tHXvt,Active,Customer,2022-06-14,Fashion,Clothing,Mid-Market,90000000.0,UNITED STATES,3000.0
+0011n00001tHp4G,Active,Customer,2022-11-04,Sports,General Sports,SME,0.0,UNITED STATES,2712.15
+0011n00001jrwhp,Cancelled,Former Client,2021-04-02,"Toys, Kids & baby",Games,SME,,HONG KONG,4000.0
+0011n00001iZeX5,Cancelled,Former Client,2020-06-30,"Toys, Kids & baby",Baby items,SME,5700000.0,UNITED STATES,
+0011n00001iaFA4,Active,Customer,2022-02-08,Sports,Fishing,Mid-Market,80000000.0,UNITED STATES,1946.5
+0011n00001iaFmz,Active,Customer,2022-06-27,Fashion,Accessories,SME,,BELGIUM,1000.0
+0011n00001jsrjZ,Paused,Customer,,Fashion,Accessories,SME,4700000.0,UNITED STATES,
+0011n00001ialsV,Active,Customer,2022-07-20,Fashion,Clothing,SME,112393.0,UNITED STATES,6900.0
+0011n00001iasIc,Cancelled,Former Client,2021-03-10,Homeware,Decor,Mid-Market,219000000.0,UNITED STATES,16150.0
+0011n00001lGLH7,Cancelled,Former Client,2020-03-31,Fashion,Clothing,SME,2800000.0,UNITED STATES,
+0011n00001lGhUG,Cancelled,Former Client,2020-04-01,Fashion,Clothing,SME,,UNITED STATES,
+0010Y00000DENtN,Active,Customer,2022-04-19,Homeware,Lighting,SME,7000000.0,NEW ZEALAND,1323.0
+0011n00001vUSXr,Cancelled,Former Client,2020-08-18,Homeware,Indoor Household goods,Enterprise,1000000000.0,UNITED KINGDOM,
+0011n00001vUgCu,Cancelled,Former Client,2020-03-01,Fashion,Clothing,SME,2000000.0,SPAIN,
+0010Y00000JRyX1,Cancelled,Former Client,2019-11-01,Fashion,Accessories,SME,5200000.0,AUSTRALIA,
+0010Y00000BZPPM,Active,Customer,2022-04-23,Homeware,Furniture,Mid-Market,52700000.0,FRANCE,1400.0
+0010Y00000xqlYn,Paused,Customer,,Homeware,Kitchenware,SME,5800000.0,UNITED STATES,
+0010Y00000jF98e,Active,Customer,2022-01-17,Fashion,Clothing,SME,10600000.0,UNITED KINGDOM,19200.0
+0010Y00000jF9DQ,Active,Customer,2022-10-30,Homeware,Lighting,Mid-Market,114900000.0,FINLAND,3196.0
+0011n00001vT6GL,Active,Customer,2022-08-17,Sports,Football,SME,,SPAIN,3194.4
+0011n00001tGxhj,Cancelled,Former Client,2020-01-02,Fashion,Accessories,SME,4800000.0,UNITED STATES,
+0011n00001tGxez,Cancelled,Former Client,2019-07-26,Homeware,Pets,SME,7105000.0,UNITED STATES,
+0011n00001vSxix,Active,Customer,2022-11-23,"Toys, Kids & baby",Baby items,SME,3400000.0,UNITED STATES,1433.25
+0011n00001lHVdh,Active,Customer,2022-01-01,Beauty & Personal Care,Personal Care Items,SME,17500000.0,SWITZERLAND,2500.0
+0011n00001pYtKt,Cancelled,Former Client,2020-01-01,Beauty & Personal Care,Cosmetics,SME,2000000.0,CANADA,
+0011n00001pvORv,Active,Customer,2022-02-08,Sports,Sport apparel,SME,5000000.0,SPAIN,1179.75
+0010Y00000ZHS0w,Cancelled,Former Client,2021-01-07,"Toys, Kids & baby",Toys,SME,17700000.0,UNITED STATES,
+0011n00002Nwtxs,Cancelled,Former Client,2020-09-18,"Toys, Kids & baby",Toys,SME,3400000.0,SPAIN,
+0011n00002NvIIe,Cancelled,Former Client,2021-06-30,Fashion,Accessories,SME,,UNITED KINGDOM,3002.1
+0011n000022PCW4,Cancelled,Former Client,2020-09-01,Beauty & Personal Care,Hair Care,SME,5800000.0,UNITED STATES,
+0011n00002NvIOS,Cancelled,Former Client,2021-01-01,Health,Medical Devices,SME,3000000.0,UNITED STATES,
+0011n00002Nwgwy,Active,Customer,2022-01-27,Sports,Sporting goods,SME,50000000.0,UNITED STATES,2900.0
+0010Y00000ctIiS,Cancelled,Former Client,2020-04-26,Fashion,Clothing,SME,5600000.0,AUSTRALIA,
+0011n00001pxaRl,Cancelled,Former Client,2019-12-01,Electronics,Appliances,SME,,UNITED KINGDOM,
+0011n00001rzjRH,Cancelled,Former Client,2020-08-01,Homeware,Furniture,SME,9400000.0,UNITED STATES,
+0010Y00000VbNt4,Active,Customer,2022-03-31,Fashion,Clothing,Mid-Market,77800000.0,UNITED STATES,2066.67
+0011n00002MZIZx,Active,Customer,2022-07-06,Electronics,Appliances,SME,10065000.0,UNITED STATES,950.0
+0011n00002M2UTs,Active,Customer,2022-03-31,Auto,Auto Parts & Accessories,SME,20328000.0,UNITED STATES,892.5
+0011n00002NuzSu,Active,Customer,2022-10-21,Homeware,Indoor Household goods,SME,31000000.0,SPAIN,1905.75
+0011n0000259JYF,Active,Customer,2022-11-02,Homeware,Decor,SME,8600000.0,SPAIN,1470.15
+0011n0000259KA0,Active,Customer,2022-09-23,Consumer Goods,Stationery,SME,201000.0,UNITED STATES,
+0011n00002MZHLt,Active,Customer,2022-12-03,Homeware,Decor,Mid-Market,89691000.0,UNITED STATES,15600.0
+0011n00002VISS7,Active,Customer,2022-07-12,Fashion,Clothing,SME,,SOUTH KOREA,19760.65
+0011n00002WqW4f,Active,Customer,2022-12-17,Homeware,Kitchenware,SME,,BULGARIA,950.0
+0011n00001iae5f,Active,Customer,2022-06-15,Sports,Sport apparel,SME,,FRANCE,9185.0
+0011n00001iAYKQ,Active,Customer,2022-04-27,Beauty & Personal Care,Skin Care,SME,,POLAND,0.0
+0011n00001itrqc,Cancelled,Former Client,2020-03-25,Homeware,Furniture,Enterprise,,UNITED KINGDOM,
+0011n00001it4Ha,Active,Customer,2022-03-01,Sports,Sporting goods,SME,200000.0,UNITED STATES,12000.0
+0011n00001ivStl,Cancelled,Former Client,2020-02-05,"Toys, Kids & baby",Toys,SME,,CANADA,
+0011n00001ivsb1,Active,Customer,2022-09-05,Fashion,Clothing,SME,4400000.0,UNITED STATES,3000.0
+0011n00001ivKUP,Active,Customer,2023-02-26,Homeware,Kitchenware,Mid-Market,90400000.0,UNITED STATES,9845.0
+0010Y00001V3jMl,Active,Customer,2022-03-04,Health,Medical Goods,SME,1700000.0,UNITED STATES,2600.0
+0010Y00000l9XGo,Paused,Customer,,Sports,General Sports,SME,8200000.0,UNITED KINGDOM,
+0011n00001xVkPa,Active,Customer,2022-03-13,Fashion,Accessories,SME,21800000.0,AUSTRALIA,2225.0
+0011n000029yFW6,Active,Customer,2022-10-18,Homeware,Decor,SME,11200000.0,UNITED KINGDOM,1000.0
+0011n000020Aw5E,Cancelled,Former Client,2020-07-22,"Toys, Kids & baby",Toys,SME,192000.0,UNITED STATES,
+0011n000020A3f3,Active,Customer,2022-04-30,Fashion,Clothing,SME,50000000.0,SWITZERLAND,8612.9
+0011n00001wyZ4d,Cancelled,Former Client,2020-03-01,Beauty & Personal Care,Personal Care Items,SME,6800000.0,UNITED STATES,
+0011n00001wxwpV,Cancelled,Former Client,2021-07-29,Sports,Sporting goods,SME,4421000.0,UNITED STATES,15110.0
+0011n00001wzJia,Active,Customer,,"Toys, Kids & baby",Toys,SME,12200000.0,UNITED STATES,3350.0
+0011n000020BdcC,Cancelled,Former Client,2019-06-04,Construction,Tools,SME,,UNITED STATES,
+0011n0000259IVZ,Active,Customer,2022-08-26,Sports,Sporting goods,Mid-Market,543100000.0,UNITED STATES,2550.0
+0011n0000259ILd,Active,Customer,2022-09-26,Consumer Goods,Arts & Crafts Goods,SME,31100000.0,UNITED STATES,4080.0
+0010Y00000W52E9,Active,Customer,2022-01-26,Beauty & Personal Care,Beauty Gadgets,SME,10000000.0,UNITED STATES,2226.0
+0011n000029yQOH,Cancelled,Former Client,2019-12-26,Sports,Sporting goods,SME,2000000.0,UNITED STATES,
+0011n000029zGkT,Paused,Customer,2022-01-01,Sports,Sport apparel,SME,,UNITED STATES,1350.0
+0011n000029ypSU,Cancelled,Former Client,2020-10-01,Entertainment,Celebrity-branded goods,SME,6700000.0,UNITED STATES,
+0011n00001nPNK4,Cancelled,Former Client,2019-11-01,Fashion,Clothing,SME,,UNITED STATES,
+0011n000029yEpg,Active,Customer,2022-07-08,Consumer Goods,Stationery,SME,3800000.0,UNITED STATES,3944.0
+0011n00001nRPTs,Active,Customer,2022-10-01,Beauty & Personal Care,Skin Care,SME,2200000.0,UNITED STATES,5050.0
+0011n00001m2vGN,Cancelled,Former Client,2020-02-04,Auto,Auto Parts & Accessories,SME,5000000.0,ITALY,
+0011n000029zjJ5,Active,Customer,2022-11-29,Fashion,Clothing,SME,12400000.0,UNITED STATES,7770.0
+0011n000029zjUh,Active,Customer,2022-03-01,Homeware,Indoor Household goods,Mid-Market,407400000.0,UNITED STATES,6750.0
+0011n000029yBwh,Active,Customer,2022-02-07,"Toys, Kids & baby",Baby items,SME,200000.0,GERMANY,1100.0
+0011n00001nSqrN,Active,Customer,2022-08-15,Fashion,Accessories,SME,333320.0,GERMANY,1825.0
+0010Y00001OfFBS,Active,Customer,2022-02-21,Homeware,Kitchenware,SME,800000.0,AUSTRALIA,24180.0
+0011n00001m2oQ9,Cancelled,Former Client,2019-03-12,Homeware,Decor,SME,9800000.0,CANADA,
+0011n00001nTHEC,Cancelled,Former Client,2019-05-10,Health,Other,SME,,UNITED STATES,
+0010Y00001IGAXH,Active,Customer,2022-09-14,Health,Pharmaceutical,Large Enterprise,13185495000.0,SWEDEN,68340.0
+0010Y00000JUVsk,Active,Customer,2022-05-11,Fashion,Undergarments,SME,12000000.0,CANADA,5000.0
+0010Y00000MHHL9,Active,Customer,2022-11-16,Beauty & Personal Care,Personal Care Items,SME,7894000.0,CANADA,2400.0
+0011n00001xUj3g,Cancelled,Former Client,2019-10-31,Beauty & Personal Care,Hair Care,SME,200000.0,UNITED KINGDOM,
+0010Y00001V3aMi,Cancelled,Former Client,2021-05-02,Homeware,Furniture,SME,4900000.0,SPAIN,4307.6
+0011n00001vWRFo,Cancelled,Former Client,2020-03-02,Sports,Sport apparel,SME,200000.0,SWEDEN,
+0010Y00000WS96G,Active,Customer,2022-08-01,Fashion,Eyewear,SME,37000000.0,UNITED STATES,2600.0
+0010Y00000qeUkr,Cancelled,Former Client,2020-01-01,Fashion,Clothing,SME,6500000.0,UNITED STATES,
+0011n00002B0RoY,Cancelled,Former Client,2020-11-01,Beauty & Personal Care,Cosmetics,SME,4144000.0,JAPAN,
+0010Y00000JTnCi,Paused,Customer,,Sports,General Sports,SME,6400000.0,SWEDEN,
+0010Y00000QWa0W,Cancelled,Former Client,2019-02-16,Homeware,Kitchenware,SME,,UNITED STATES,
+0011n000021bA65,Active,Customer,2022-02-06,"Toys, Kids & baby",Toys,SME,9000000.0,FRANCE,1260.0
+0011n00002QWn8A,Active,Customer,2022-08-25,Consumer Goods,Stationery,SME,12600000.0,UNITED STATES,1507.5
+0011n00002NwR5s,Active,Customer,2022-06-30,Consumer Goods,Arts & Crafts Goods,Mid-Market,703620000.0,UNITED STATES,875.5
+0011n000024A5qc,Active,Customer,2022-01-29,Consumer Goods,Stationery,SME,7800000.0,UNITED STATES,2600.0
+0010Y00000HCdb0,Paused,Customer,,Sports,General Sports,SME,23071000.0,SWITZERLAND,
+0010Y00000Gzmos,Cancelled,Former Client,2021-11-14,Sports,Sports Clubs,SME,7500000.0,PORTUGAL,9000.0
+0010Y00000Gzmgl,Active,Customer,2022-05-14,Beauty & Personal Care,Sex Toys,SME,5800000.0,JAPAN,800.0
+0011n0000259IVN,Active,Customer,2022-12-01,Homeware,Pets,SME,11249000.0,UNITED STATES,4724.0
+0010Y00000SJKft,Cancelled,Former Client,2019-02-21,Sports,Sport apparel,Mid-Market,219100000.0,UNITED KINGDOM,
+0010Y00001gjhBM,Cancelled,Former Client,2020-05-01,Food & Beverage,Wine & Spirits,SME,3000000.0,UNITED STATES,
+0011n00002ZswTo,Active,Customer,2022-07-31,Health,Pharmaceutical,Mid-Market,,UNITED KINGDOM,
+0011n00002YqvS0,Active,Customer,2022-08-17,Homeware,Decor,SME,4486000.0,UNITED STATES,2000.0
+0010Y00000R5EQr,Paused,Customer,,Electronics,Wearables,SME,6000000.0,UNITED STATES,
+0010Y00000NEA9K,Active,Customer,2022-06-17,Beauty & Personal Care,Beauty Gadgets,SME,3800000.0,UNITED STATES,3900.0
+0010Y00001Bmrb6,Cancelled,Former Client,2021-03-15,"Toys, Kids & baby",Toys,Mid-Market,70500000.0,GERMANY,900.0
+0011n000025BpY4,Paused,Customer,2021-12-01,Homeware,Indoor Household goods,SME,49300000.0,UNITED STATES,
+0010Y000002sD0H,Cancelled,Former Client,2020-07-01,Beauty & Personal Care,Skin Care,SME,13800000.0,CANADA,
+0010Y000010xChv,Cancelled,Former Client,2019-04-01,Fashion,Clothing,SME,,JAPAN,
+0011n00002AztLM,Cancelled,Former Client,2020-10-01,Auto,Car interior,Mid-Market,633300000.0,UNITED STATES,
+0010Y00001PftE4,Active,Customer,2022-10-16,Food & Beverage,Wine & Spirits,Mid-Market,77700000.0,UNITED STATES,6000.0
+0010Y00000NjeDM,Active,Customer,2022-05-01,Homeware,Kitchenware,SME,8633190.4,ITALY,840.0
+0010Y00001gjRny,Cancelled,Former Client,2019-10-31,Beauty & Personal Care,Personal Care Items,Mid-Market,100000000.0,UNITED STATES,
+0011n00002D5STQ,Cancelled,Former Client,2020-06-01,Fashion,Bags & Luggage,SME,2800000.0,UNITED ARAB EMIRATES,
+0011n00002D5U4h,Paused,Customer,2022-01-01,Homeware,Kitchenware,SME,40500000.0,UNITED STATES,5000.0
+0011n00002D5X3x,Cancelled,Former Client,2020-07-01,Homeware,Kitchenware,SME,3600000.0,UNITED STATES,
+0011n00002D4gI0,Active,Customer,2022-07-31,Law Firm/Partner,Law Firm/Partner,Mid-Market,100000000.0,BRAZIL,29440.0
+0011n00001i8Nxb,Active,Customer,2022-04-28,Homeware,Pets,SME,36300000.0,UNITED STATES,3850.0
+0011n00001iacKn,Active,Customer,2022-04-27,Homeware,Pets,Mid-Market,108550000.0,CANADA,2940.0
+0011n00001iac3m,Cancelled,Former Client,2021-03-01,Beauty & Personal Care,Skin Care,Mid-Market,57500000.0,UNITED STATES,3493.0
+0010Y00001SmJ2O,Active,Customer,2022-06-01,Fashion,Watches,SME,4800000.0,ITALY,1842.75
+0010Y000015JWXP,Active,Customer,2022-03-29,"Toys, Kids & baby",Toys,SME,24380000.0,UNITED STATES,1236.0
+0010Y000016y3NH,Cancelled,Former Client,2021-09-01,Fashion,Undergarments,SME,3500000.0,UNITED STATES,3000.0
+0010Y00001g1WVH,Cancelled,Former Client,2019-04-22,Beauty & Personal Care,Skin Care,SME,2000000.0,UNITED STATES,
+0010Y00000SLogf,Cancelled,Former Client,2020-11-01,Construction,Tools,SME,1800000.0,ESTONIA,
+0011n000029WbhL,Active,Customer,2022-07-19,"Toys, Kids & baby",Baby items,SME,21200000.0,UNITED STATES,2047.5
+0011n000022Ou6X,Active,Customer,2022-04-25,Beauty & Personal Care,Hair Care,SME,10262000.0,UNITED STATES,3376.0
+0011n0000209Z2y,Cancelled,Former Client,2019-08-01,Fashion,Accessories,SME,200000.0,TAIWAN,
+0011n0000209Qvx,Cancelled,Former Client,2019-05-31,Sports,Sport apparel,SME,11500000.0,SPAIN,
+0011n0000209rd2,Cancelled,Former Client,2020-03-01,Electronics,Wearables,SME,3800000.0,UNITED STATES,
+0011n0000209rjK,Cancelled,Former Client,2019-04-21,Homeware,Decor,SME,7697000.0,JAPAN,
+0011n0000209OA7,Paused,Customer,,Fashion,Accessories,SME,1300000.0,FRANCE,
+0011n0000209aTb,Cancelled,Former Client,2019-07-13,Fashion,Bags & Luggage,SME,5400000.0,GERMANY,
+0011n0000209JKa,Cancelled,Former Client,2019-07-01,Fashion,Watches,SME,5700000.0,UNITED STATES,
+0011n0000209hff,Cancelled,Former Client,2020-04-18,Fashion,Accessories,SME,21000000.0,DENMARK,
+0011n0000209f5I,Active,Customer,2022-11-09,Sports,Sporting goods,SME,5500000.0,DENMARK,1260.0
+0011n0000209rYa,Active,Customer,2022-03-13,Fashion,Clothing,SME,9035000.0,UNITED STATES,2315.25
+0011n0000209yaD,Cancelled,Former Client,2020-06-06,Fashion,Bags & Luggage,SME,,UNITED KINGDOM,
+0011n000020B6LG,Cancelled,Former Client,2020-05-08,Beauty & Personal Care,Skin Care,SME,41400000.0,SPAIN,
+0011n000020Auny,Cancelled,Former Client,2020-08-15,Fashion,Clothing,SME,34603000.0,UNITED STATES,
+0011n000020AvzQ,Cancelled,Former Client,2019-07-25,Homeware,Lighting,SME,,CANADA,
+0011n000020Air1,Cancelled,Former Client,2020-10-13,Homeware,Indoor Household goods,SME,,ISRAEL,
+0011n00002ZrP4v,Active,Customer,2022-04-22,Electronics,Smart Home & Security,SME,,UNITED STATES,1450.0
+0011n00002BzcKQ,Active,Customer,2022-05-16,Sports,Sporting goods,SME,10600000.0,UNITED STATES,2625.0
+0011n00002BzUZ1,Cancelled,Former Client,2021-03-18,Consumer Goods,Design materials,SME,,UNITED STATES,2250.0
+0011n0000259IkB,Active,Customer,2022-07-29,Fashion,Clothing,SME,751000.0,UNITED KINGDOM,805.5
+0010Y00001V3JQ2,Cancelled,Former Client,2020-03-07,Homeware,Lighting,SME,,ISRAEL,
+0011n00002ZsuJF,Active,Customer,2022-03-03,Fashion,Clothing,SME,,UNITED STATES,2150.0
+0010Y00001NJdse,Active,Customer,2022-10-01,Fashion,Watches,SME,34900000.0,DENMARK,1651.0
+0010Y00001NIDod,Active,Customer,2022-09-30,Sports,Sporting goods,SME,35000000.0,MEXICO,1400.0
+0011n00001nS9Kl,Active,Customer,2022-02-28,Sports,Sporting goods,Mid-Market,7100000.0,GERMANY,1900.0
+0011n00001nRFkA,Active,Customer,2022-06-30,Electronics,Cell Phone & Accessories,SME,7500000.0,UNITED STATES,10171.32
+0011n00001nQElt,Active,Customer,2022-05-31,Sports,Sporting goods,SME,2200000.0,UNITED STATES,525.0
+0011n00001nSyHN,Cancelled,Former Client,2019-05-25,Beauty & Personal Care,Personal Care Items,SME,,POLAND,
+0010Y00001SmGmg,Paused,Customer,,Fashion,Clothing,SME,15600000.0,UNITED STATES,
+0010Y00001IFXYN,Active,Customer,2022-07-31,Fashion,Accessories,SME,17878000.0,CANADA,2900.0
+0010Y00000HDLBC,Active,Customer,2022-11-15,Beauty & Personal Care,Skin Care,SME,19200000.0,UNITED STATES,2350.0
+0011n00001vUN3Q,Cancelled,Former Client,2019-03-31,Electronics,Cell phone & laptops & Home Office,Large Enterprise,34800000000.0,JAPAN,
+0011n00001vWGfz,Cancelled,Former Client,2019-06-01,Consumer Goods,Arts & Crafts Goods,SME,22300000.0,UNITED STATES,
+0011n00001vVrIK,Active,Customer,2022-11-25,Homeware,Lighting,SME,43200000.0,SPAIN,1573.0
+0011n00001tFuDx,Cancelled,Former Client,2020-03-01,Sports,Sporting goods,Mid-Market,207200000.0,UNITED STATES,
+0011n00001vVueP,Cancelled,Former Client,2019-12-01,Homeware,Kitchenware,SME,4700000.0,GERMANY,
+0010Y00000Njaqx,Paused,Customer,2021-09-01,Homeware,Kitchenware,SME,4037000.0,ISRAEL,
+0010Y00000NEABa,Active,Customer,2022-05-12,Fashion,Undergarments,SME,600000.0,UNITED KINGDOM,3000.0
+0011n00002PFz49,Active,Customer,2022-09-13,Beauty & Personal Care,Hair Care,SME,,CANADA,1887.1
+0011n00002PFhTV,Active,Customer,2022-09-07,Construction,Tools,Mid-Market,22499000.0,UNITED STATES,2189.99
+0010Y000010P5VV,Cancelled,Former Client,2020-06-04,Electronics,Audio,SME,5723000.0,HONG KONG,
+0011n00002C1zPf,Active,Customer,2022-07-31,Electronics,Appliances,Enterprise,1200000000.0,UNITED STATES,25200.0
+0011n00002C2Jpj,Cancelled,Former Client,2020-07-01,"Toys, Kids & baby",Baby items,SME,1400000.0,UNITED STATES,
+0011n00002ExA4H,Active,Customer,2022-02-17,Electronics,Videogames,SME,606000.0,UNITED STATES,2084.0
+0011n000022MiLi,Active,Customer,2022-04-12,Sports,Sporting goods,SME,30200000.0,UNITED STATES,3890.0
+0011n000022Nlly,Active,Customer,2022-11-17,Homeware,Household appliances,SME,33200000.0,UNITED STATES,4200.0
+0011n000026QvpK,Cancelled,Former Client,2021-07-18,Electronics,Cameras & Camcorders,SME,,UNITED STATES,8693.0
+0011n000024B3Re,Cancelled,Former Client,2020-03-07,Fashion,Clothing,SME,8700000.0,UNITED KINGDOM,
+0011n000022PDdj,Cancelled,Former Client,2020-01-01,Beauty & Personal Care,Sex Toys,SME,5800000.0,CANADA,
+0011n00001xWcMv,Active,Customer,2022-06-02,Fashion,Accessories,SME,1400000.0,BULGARIA,8770.0
+0010Y00000JRQlm,Active,Customer,2022-06-22,Homeware,Kitchenware,SME,2000000.0,DENMARK,1260.0
+0010Y00000NkRNV,Paused,Customer,,Sports,General Sports,SME,8843000.0,CANADA,
+0011n000021bQPe,Cancelled,Former Client,2019-09-06,Sports,Sport apparel,SME,4600000.0,UNITED STATES,
+0011n00002ICspo,Active,Customer,2022-10-25,Homeware,Decor,SME,,UNITED STATES,3005.0
+0011n0000259No2,Active,Customer,2022-02-10,Sports,Sporting goods,SME,2600000.0,SWEDEN,9960.0
+0010Y00001R3nie,Active,Customer,2022-08-26,Homeware,Kitchenware,SME,6700000.0,UNITED STATES,
+0011n00001nPxxP,Cancelled,Former Client,2019-03-16,Entertainment,Celebrity-branded goods,SME,,UNITED STATES,
+0010Y00001R3gXI,Active,Customer,2022-06-01,Sports,Sporting goods,Mid-Market,160000000.0,UNITED STATES,5800.0
+0010Y00001S7IQ7,Cancelled,Former Client,2019-08-31,Sports,Firearms,SME,21600000.0,ISRAEL,
+0010Y00001S7Jry,Cancelled,Customer,2020-06-01,Beauty & Personal Care,Personal Care Items,SME,1550000.0,UNITED STATES,
+0011n00001pVRub,Active,Customer,2022-02-05,Entertainment,"Movies, Music, TV",SME,,UNITED STATES,16500.0
+0011n00001nSzxZ,Cancelled,Former Client,2020-03-31,Homeware,Decor,SME,3800000.0,AUSTRALIA,
+0011n00001pVRrw,Cancelled,Former Client,2019-08-01,"Toys, Kids & baby",Toys,Mid-Market,114300000.0,UNITED STATES,
+0011n00001nT7Nx,Active,Customer,2022-02-28,Sports,Sports Clubs,SME,3400000.0,MEXICO,7225.0
+0010Y00001S7K9P,Cancelled,Former Client,2019-06-01,Sports,Sporting goods,SME,8000000.0,UNITED STATES,
+0011n00001nT8ks,Cancelled,Former Client,2020-12-01,Homeware,Pets,SME,4600000.0,UNITED STATES,
+0011n00001vV4W5,Cancelled,Former Client,2019-12-01,Beauty & Personal Care,Skin Care,SME,,UNITED KINGDOM,
+0011n00001vVUlE,Cancelled,Former Client,2019-06-01,Consumer Goods,Other,SME,3000000.0,UNITED STATES,
+0011n00001tHofA,Cancelled,Former Client,2021-12-12,Sports,Fitness Foods,SME,1000000.0,UNITED STATES,19765.0
+0011n00001vVAfq,Cancelled,Former Client,2020-04-01,Fashion,Headwear,SME,,UNITED STATES,
+0011n00001vVJKF,Cancelled,Former Client,2021-03-01,Homeware,Decor,SME,6800000.0,UNITED STATES,12419.36
+0011n00001vVQ9r,Active,Customer,2021-12-31,Sports,Sporting goods,SME,3400000.0,GERMANY,0.0
+0011n00001vSeDn,Cancelled,Former Client,2019-09-30,Electronics,Audio,Mid-Market,62100000.0,UNITED STATES,
+0011n000022OQel,Cancelled,Former Client,2020-04-17,Fashion,Clothing,SME,8650000.0,SWEDEN,
+0010Y00000TQvHP,Cancelled,Former Client,2020-07-01,Fashion,Undergarments,SME,,CANADA,
+0011n00002eTlfu,Active,Customer,2022-08-31,Sports,Sports merchandising,Mid-Market,67611000.0,UNITED STATES,11900.0
+0011n000026Qvpv,Cancelled,Former Client,2021-11-01,Construction,Tools,SME,31400000.0,UNITED STATES,5400.0
+0011n000021gL0L,Cancelled,Former Client,2021-08-15,Law Firm/Partner,Law Firm/Partner,SME,,SWITZERLAND,2100.0
+0011n0000259IeD,Active,Customer,2022-01-04,Health,Pharmaceutical,SME,12800000.0,UNITED STATES,21800.0
+0010Y00000JROp9,Active,Customer,2022-12-18,Homeware,Kitchenware,SME,5400000.0,SPAIN,686.07
+0011n00002HGaBR,Cancelled,Former Client,2021-04-15,Beauty & Personal Care,Personal Care Items,SME,9473000.0,UNITED STATES,1200.0
+0010Y00000JROox,Active,Customer,2022-07-29,Fashion,Clothing,SME,4736000.0,SPAIN,4671.79
+0011n000021gEer,Cancelled,Former Client,2020-09-20,Homeware,Kitchenware,SME,,UNITED STATES,
+0011n00002HH6vB,Active,Customer,2022-09-30,Consumer Goods,Design materials,Mid-Market,78100000.0,UNITED STATES,4200.0
+0011n00002Iyyhg,Active,Customer,2023-01-01,Fashion,Clothing,Mid-Market,,UNITED STATES,4400.0
+0010Y00001S7BOj,Cancelled,Former Client,2019-04-26,Fashion,Clothing,SME,384000.0,UNITED STATES,
+0010Y00001R3YBa,Cancelled,Former Client,2020-03-01,"Toys, Kids & baby",Games,SME,6315000.0,HONG KONG,
+0011n00001iAFyX,Cancelled,Former Client,2019-12-13,Auto,Auto Parts & Accessories,SME,,UNITED STATES,
+0011n00001i9V06,Cancelled,Former Client,2021-08-01,Construction,Tools,Mid-Market,236800000.0,GERMANY,1800.0
+0011n00001iab7U,Cancelled,Former Client,2021-02-01,Beauty & Personal Care,Hair Care,SME,5600000.0,UNITED STATES,
+0011n00001i92Lr,Cancelled,Former Client,2021-01-28,Fashion,Accessories,SME,15700000.0,UNITED STATES,
+0010Y000010P6Oc,Paused,Customer,,Fashion,Clothing,SME,384000.0,UNITED STATES,
+0011n000022ORzd,Cancelled,Former Client,2019-09-07,Auto,Auto Parts & Accessories,SME,3200000.0,GERMANY,
+0011n0000259ILX,Cancelled,Former Client,2021-12-01,Homeware,Pets,SME,7400000.0,UNITED STATES,2250.0
+0011n00002B1Q4v,Active,Customer,2022-05-01,Entertainment,"Movies, Music, TV",SME,,UNITED STATES,0.0
+0011n00002ByhwI,Cancelled,Former Client,2021-10-31,Sports,Sporting goods,SME,35000000.0,MEXICO,831.96
+0010Y00000z0Ds6,Active,Customer,2022-07-06,"Toys, Kids & baby",Games,SME,31200000.0,GERMANY,4000.0
+0011n00002B1RuH,Active,Customer,2022-06-08,Electronics,Appliances,SME,4000000.0,HONG KONG,12101.0
+0011n00002BykCW,Cancelled,Former Client,2021-07-24,Law Firm/Partner,Law Firm/Partner,Partner,,UNITED STATES,
+0011n00002C047Y,Active,Customer,2022-11-05,Homeware,Kitchenware,Enterprise,68610000.0,UNITED STATES,22750.0
+0011n00002C1a5s,Cancelled,Former Client,2020-09-01,Consumer Goods,Stationery,SME,6992000.0,UNITED STATES,
+0011n00002ZugA7,Cancelled,Former Client,2021-10-02,Fashion,Accessories,SME,1900000.0,UNITED STATES,700.0
+0010Y00001Ie2Qg,Cancelled,Former Client,2019-04-06,Fashion,Accessories,Mid-Market,77000000.0,UNITED KINGDOM,
+0010Y00001Ie2Ql,Active,Customer,2022-05-31,Beauty & Personal Care,Cosmetics,Mid-Market,58600000.0,GERMANY,2257.5
+0011n000022O0c3,Active,Customer,2022-03-31,"Toys, Kids & baby",Toys,SME,161857.99,UNITED STATES,1650.0
+0011n00002PHLvb,Paused,Customer,2022-01-01,Software,Software,SME,50000000.0,UNITED STATES,1351.5
+0011n00002PHl8N,Cancelled,Former Client,2021-12-01,Consumer Goods,Stationery,SME,3800000.0,UNITED STATES,9750.0
+0011n00002PHM5g,Active,Customer,2022-09-30,Homeware,Pets,SME,4600000.0,UNITED STATES,8240.0
+0011n00002PHlwr,Active,Customer,2022-08-22,Fashion,Clothing,SME,22600000.0,UNITED STATES,5250.0
+0011n00002PHf2g,Active,Customer,2022-09-07,Electronics,Cameras & Camcorders,SME,10000000.0,CHINA,1600.0
+0011n00002PH8up,Cancelled,Former Client,2021-02-01,Health,Medical Goods,SME,9600000.0,UNITED STATES,
+0011n00002PHLCv,Active,Customer,2022-04-05,Auto,Auto Parts & Accessories,Large Enterprise,9500000000.0,SPAIN,13915.0
+0011n00002Q7GKi,Active,Customer,2022-10-06,Sports,Sporting goods,SME,,NEW ZEALAND,4090.0
+0011n00002PyQbK,Active,Customer,2022-11-04,Consumer Goods,Arts & Crafts Goods,SME,3000000.0,UNITED STATES,12530.0
+0011n00002Py2Cz,Active,Customer,2022-05-31,Health,Medical Goods,SME,10800000.0,UNITED STATES,2500.0
+0011n00002PyNIT,Active,Customer,2022-10-14,Electronics,Appliances,SME,9000000.0,UNITED STATES,1733.0
+0011n00002RGMlE,Cancelled,Former Client,2021-09-29,Fashion,Accessories,SME,10000000.0,SPAIN,4356.0
+0011n00002PyN7Q,Cancelled,Former Client,2021-06-30,"Toys, Kids & baby",Baby items,SME,6454000.0,UNITED STATES,4100.0
+0011n00002QWe50,Active,Customer,2022-08-07,Homeware,Kitchenware,SME,32900000.0,UNITED STATES,4300.0
+0011n00002QdOPG,Paused,Customer,2022-01-01,Sports,Sporting goods,SME,32296000.0,CANADA,4000.0
+0011n00002S9WD2,Active,Customer,2022-02-07,Health,Medical Devices,Mid-Market,576000000.0,CZECH REPUBLIC,1600.0
+0011n00002RChwv,Active,Customer,2022-11-25,Sports,Firearms,SME,31112000.0,UNITED STATES,6600.0
+0011n00002RDgVQ,Active,Customer,2022-09-14,Health,Medical Devices,SME,,UNITED STATES,22763.0
+0011n00002REBEX,Cancelled,Former Client,2021-05-03,Consumer Goods,Arts & Crafts Goods,SME,5800000.0,UNITED STATES,5945.0
+0011n00002RG96o,Active,Customer,2022-10-22,Sports,Sporting goods,SME,20000000.0,AUSTRALIA,1650.0
+0011n00002RG83p,Active,Customer,2022-11-11,"Toys, Kids & baby",Games,SME,18000000.0,UNITED STATES,1500.0
+0011n00002VJb4u,Cancelled,Former Client,2021-07-08,Health,Medical Devices,SME,,UNITED STATES,3750.0
+0011n00002RGBFf,Active,Customer,2022-01-04,Food & Beverage,Bottled Water,SME,6000000.0,UNITED STATES,4936.0
+0011n00002SBHqD,Active,Customer,2023-01-04,Beauty & Personal Care,Hair Care,SME,12400000.0,UNITED STATES,3040.0
+0011n00002RG9a5,Cancelled,Former Client,2021-10-05,Fashion,Luxury Goods,SME,,SPAIN,1089.0
+0010Y000005CoJq,Active,Customer,,Sports,Sports Clubs,Mid-Market,153700000.0,PORTUGAL,3800.0
+0010Y000005CpJG,Cancelled,Former Client,2020-09-01,Sports,Sports Clubs,Mid-Market,85600000.0,PORTUGAL,
+0011n00001xUklM,Cancelled,Former Client,2021-02-01,Fashion,Accessories,SME,14800000.0,UNITED KINGDOM,
+0011n00002ZtzlC,Active,Customer,2022-03-08,Sports,Firearms,SME,,UNITED STATES,27135.0
+0010Y00000IJyb9,Active,Customer,2022-06-30,Software,Software,Enterprise,612000000.0,RUSSIAN FEDERATION,11416.09
+0011n00002Y85y8,Paused,Customer,2022-01-01,Fashion,Luxury Goods,SME,,SPAIN,4114.0
+0010Y00000qauw9,Paused,Former Client,,"Toys, Kids & baby",Toys,SME,5000000.0,UNITED STATES,
+0011n00001pv2HI,Cancelled,Former Client,2019-09-18,Beauty & Personal Care,Cosmetics,SME,6200000.0,UNITED STATES,
+0011n00001m0co0,Active,Customer,2022-12-16,Fashion,Accessories,SME,200000.0,AUSTRALIA,2060.0
+0011n00001pxEkc,Active,Customer,2022-03-01,Fashion,Accessories,SME,,NETHERLANDS,1400.0
+0011n00001pxNwy,Cancelled,Former Client,2020-08-01,Fashion,Bags & Luggage,SME,21000000.0,FRANCE,
+0011n00001px6Nl,Cancelled,Former Client,2021-11-01,Fashion,Clothing,SME,41697.0,UNITED STATES,9646.0
+0011n000026RuZL,Active,Customer,2022-07-01,Fashion,Accessories,SME,1900000.0,UNITED STATES,2860.0
+0011n00001xVPf1,Cancelled,Former Client,2019-07-25,"Toys, Kids & baby",Toys,SME,4000000.0,SWEDEN,
+0011n00002GDdUd,Active,Customer,2022-06-20,Sports,Sport apparel,SME,,FRANCE,7035.0
+0011n00002FMxkO,Cancelled,Former Client,2021-02-28,Fashion,Accessories,SME,11400000.0,UNITED STATES,560.0
+0010Y00001R0gTQ,Cancelled,Former Client,2019-07-07,Sports,Sporting goods,SME,12800000.0,UNITED STATES,
+0010Y00001R3YDM,Paused,Customer,,Sports,General Sports,SME,,NETHERLANDS,
+0010Y00001SiKJw,Paused,Customer,,Food & Beverage,Packaged Foods,Mid-Market,113200000.0,NEW ZEALAND,
+0010Y00001XMyTd,Paused,Customer,,Homeware,Kitchenware,SME,3800000.0,UNITED STATES,
+0010Y00001V20vB,Cancelled,Former Client,2021-03-01,"Toys, Kids & baby",Games,SME,1000000.0,ISRAEL,4600.0
+0010Y00001i85aA,Cancelled,Former Client,2020-03-30,Fashion,Clothing,SME,,UNITED STATES,
+0011n00001i9ub7,Active,Customer,2022-12-14,Beauty & Personal Care,Sex Toys,SME,8600000.0,HONG KONG,3245.0
+0011n00001iAQyV,Paused,Customer,,Fashion,Accessories,SME,,SLOVENIA,
+0010Y000005D3zC,Cancelled,Former Client,2019-05-01,Beauty & Personal Care,Beauty Gadgets,SME,6700000.0,SWITZERLAND,
+0010Y000005D3oy,Active,Customer,2022-06-30,Fashion,Eyewear,SME,5700000.0,UNITED STATES,1000.0
+0011n00002YAKSH,Cancelled,Former Client,2021-08-11,Fashion,Accessories,SME,4382000.0,UNITED STATES,11000.0
+0010Y00001WMbwY,Cancelled,Former Client,2020-05-22,Entertainment,Movies,SME,,BRAZIL,
+0011n00002eUiRJ,Active,Customer,2022-07-21,Homeware,Outdoor Household Goods,SME,,UNITED STATES,8245.16
+0011n00002NtnEj,Cancelled,Former Client,2021-09-01,Auto,Auto Parts & Accessories,Mid-Market,121280000.0,UNITED STATES,8100.0
+0010Y00000XrNL4,Paused,Customer,,"Toys, Kids & baby",Toys,SME,800000.0,UNITED STATES,
+0010Y00001HGxyT,Cancelled,Former Client,2021-01-31,Fashion,Eyewear,SME,4000000.0,BELGIUM,
+0011n00002b9hIO,Active,Customer,2022-09-29,Construction,Parts and Materials,Large Enterprise,9333000000.0,UNITED STATES,5549.09
+0010Y00001hNPyG,Active,Customer,2022-09-28,Sports,Sporting goods,SME,7500000.0,UNITED KINGDOM,2900.0
+0010Y00001hvULQ,Active,Customer,2022-01-15,Fashion,Accessories,SME,25100000.0,COLOMBIA,8890.0
+0010Y00001hwehY,Active,Customer,2022-07-14,Sports,Fishing,SME,4800000.0,AUSTRALIA,3112.0
+0010Y00001dPC83,Cancelled,Former Client,2020-04-30,Fashion,Accessories,Large Enterprise,39117000000.0,UNITED STATES,
+0010Y00001csUlQ,Active,Customer,2022-01-01,Beauty & Personal Care,Skin Care,Mid-Market,60196000.0,ISRAEL,2200.0
+0010Y00001csVQ4,Active,Customer,2022-07-10,Fashion,Clothing,SME,19400000.0,UNITED STATES,2375.03
+0010Y00000s9Teq,Active,Customer,2022-08-16,Sports,General Sports,SME,500000.0,UNITED STATES,1800.0
+0011n00002gCLT3,Active,Customer,2022-07-22,Publishers,"Print (Books, Magazines, Newspapers)",SME,,UNITED STATES,4326.77
+0011n00002bAhb6,Cancelled,Former Client,2021-11-26,Fashion,Clothing,SME,,NETHERLANDS,1950.0
+0011n00002Nuqrl,Cancelled,Former Client,2021-10-01,Health,Medical Goods,SME,28000000.0,UNITED STATES,
+0010Y00000f0bj8,Cancelled,Former Client,2021-08-16,"Toys, Kids & baby",Toys,SME,7301000.0,UNITED STATES,2255.0
+0011n000021akQR,Active,Customer,2022-06-12,Consumer Goods,Other,SME,4200000.0,UNITED STATES,2598.0
+0011n000021YaSF,Cancelled,Former Client,2020-10-01,Homeware,Kitchenware,SME,1400000.0,UNITED STATES,
+0011n000022Mh1o,Cancelled,Former Client,2019-12-14,Sports,Sporting goods,SME,7955000.0,UNITED STATES,
+0011n000021YXF6,Cancelled,Former Client,2020-01-01,Construction,Other,SME,1000000.0,UNITED STATES,
+0011n000021b9Hb,Active,Customer,2021-12-23,Software,Software,SME,4600000.0,ROMANIA,0.0
+0010Y00000PUCov,Cancelled,Former Client,2021-08-31,Homeware,Kitchenware,SME,6400000.0,SPAIN,11685.0
+0010Y00001hMd17,Active,Customer,2022-06-30,"Toys, Kids & baby",Toys,SME,15600000.0,UNITED STATES,6620.0
+0010Y00000BW16N,Active,Customer,2022-03-31,Beauty & Personal Care,Skin Care,SME,1381000.0,UNITED STATES,9500.0
+0011n00002g9zqP,Active,Customer,2022-07-06,Construction,Parts and Materials,SME,,UNITED STATES,2800.0
+0011n00001pvDfb,Active,Customer,2022-02-18,Electronics,Appliances,SME,46700000.0,UNITED STATES,9500.0
+0011n00001m2T7b,Cancelled,Former Client,2019-01-15,Fashion,Accessories,SME,6800000.0,ITALY,
+0010Y00000l8XbW,Active,Customer,2022-11-19,Fashion,Clothing,Mid-Market,452500000.0,LUXEMBOURG,6459.0
+0011n00001xVqhK,Active,Customer,2022-06-14,Beauty & Personal Care,Personal Care Items,Mid-Market,155500000.0,UNITED STATES,4307.5
+0011n00001xWged,Cancelled,Former Client,2021-01-10,"Toys, Kids & baby",Baby items,SME,8300000.0,UNITED STATES,
+0011n000024Aowr,Active,Customer,2022-02-28,Homeware,Lighting,SME,8300000.0,AUSTRALIA,2824.5
+0010Y00000OHq6j,Active,Customer,2022-08-31,Sports,Sporting goods,SME,9670000.0,UNITED KINGDOM,1881.09
+0011n000026R3Js,Cancelled,Former Client,2020-03-01,Homeware,Decor,SME,,UNITED STATES,
+0010Y00000R8YNM,Cancelled,Former Client,2020-11-01,Fashion,Clothing,SME,5400000.0,UNITED STATES,
+0011n000025Bq7L,Cancelled,Former Client,2020-02-01,Consumer Goods,Arts & Crafts Goods,Mid-Market,57300000.0,UNITED STATES,
+0011n0000249qI6,Cancelled,Former Client,2019-09-15,Beauty & Personal Care,Personal Care Items,SME,405000.0,AUSTRALIA,
+0011n000028sOo9,Cancelled,Former Client,2020-07-01,Auto,Auto Parts & Accessories,Mid-Market,78600000.0,UNITED KINGDOM,
+0011n000028scwB,Cancelled,Former Client,2019-12-02,Electronics,Cameras & Camcorders,SME,6758000.0,UNITED STATES,
+0011n000028sTSa,Cancelled,Former Client,2020-02-01,Fashion,Clothing,SME,,UNITED STATES,
+0011n000028sfzB,Cancelled,Former Client,2020-04-01,Homeware,Decor,SME,260963.0,UNITED STATES,
+0010Y00001R1yLu,Active,Customer,2022-10-17,Fashion,Accessories,Mid-Market,80400000.0,UNITED STATES,1817.74
+0010Y00001WPrnM,Cancelled,Former Client,2020-04-17,Fashion,Clothing,SME,3400000.0,UNITED STATES,
+0010Y00001WPO5q,Active,Customer,2022-08-31,Fashion,Eyewear,SME,21512000.0,DENMARK,979.0
+0010Y00001WMbke,Cancelled,Former Client,2020-01-01,Fashion,Footwear,SME,4900000.0,UNITED STATES,
+0010Y00001WOcow,Active,Customer,2022-08-26,Fashion,Accessories,SME,10700000.0,UNITED STATES,3160.0
+0010Y00001XMwO1,Cancelled,Former Client,2019-10-03,Sports,Fishing,SME,1200000.0,JAPAN,
+0010Y00001YPsZx,Active,Customer,2022-07-31,Auto,Auto Parts & Accessories,SME,25400000.0,UNITED STATES,2000.0
+0010Y00001SimPD,Active,Customer,2022-07-28,Electronics,Cell phone & laptops & Home Office,SME,16600000.0,UNITED STATES,2000.0
+0010Y00001SinrS,Active,Customer,2022-09-30,Entertainment,Celebrity-branded goods,SME,4794000.0,UNITED STATES,13000.0
+0010Y00000LGKXI,Cancelled,Former Client,2020-04-01,Fashion,Accessories,SME,6400000.0,AUSTRALIA,
+0011n00002C1L5W,Active,Customer,2022-10-31,"Toys, Kids & baby",Games,SME,1600000.0,UNITED STATES,1575.0
+0011n000022ObJb,Active,Customer,2022-11-08,Fashion,Clothing,SME,6900000.0,UNITED STATES,3150.0
+0010Y00000M2aLK,Active,Customer,2022-06-30,Fashion,Accessories,SME,3075000.0,CANADA,1800.0
+0010Y00000MHFMv,Active,Customer,2022-06-30,Fashion,Accessories,SME,800000.0,GERMANY,0.0
+0010Y00000SKBWg,Active,Customer,2022-09-08,Homeware,Kitchenware,SME,2200000.0,UNITED STATES,550.0
+0010Y00000JRz4t,Cancelled,Former Client,2019-11-03,Fashion,Accessories,SME,6500000.0,GERMANY,
+0011n00002BzL2J,Cancelled,Former Client,2020-07-25,Fashion,Accessories,SME,6728000.0,UNITED STATES,
+0011n00001lzZJR,Cancelled,Former Client,2020-03-30,Homeware,Decor,SME,,UKRAINE,
+0011n00001lzZZ1,Paused,Customer,2022-01-01,Homeware,Household appliances,SME,36700000.0,UNITED KINGDOM,10200.0
+0010Y00000sCdUr,Paused,Customer,,"Toys, Kids & baby",Pets,SME,3000000.0,GERMANY,
+0010Y00000sCp0P,Active,Customer,2022-05-26,Sports,Sport apparel,SME,4200000.0,UNITED STATES,24590.32
+0011n00002VIQy4,Active,Customer,2022-11-23,Fashion,Accessories,SME,2900000.0,AUSTRALIA,3320.0
+0010Y00000axtbf,Active,Customer,2022-08-18,Homeware,Kitchenware,SME,6800000.0,UNITED STATES,3500.0
+0010Y00000ZqO3c,Paused,Customer,,Fashion,Accessories,SME,4600000.0,UNITED STATES,
+0011n00001xVzuD,Active,Customer,2022-06-08,Construction,Tools,Mid-Market,91000000.0,UNITED KINGDOM,3650.0
+0011n00002C1Yor,Active,Customer,2022-07-01,Beauty & Personal Care,Personal Care Items,Mid-Market,50700000.0,MEXICO,15500.0
+0010Y00000R7NVo,Active,Customer,,Fashion,Accessories,SME,192000.0,UNITED KINGDOM,4000.0
+0011n000025Beki,Cancelled,Former Client,2020-09-24,Fashion,Accessories,SME,32200000.0,UNITED STATES,
+0011n0000249fK1,Active,Customer,2022-03-30,Sports,Sport apparel,SME,200000.0,UNITED KINGDOM,0.0
+0011n0000259J6S,Active,Customer,2022-06-30,Software,Software,SME,,UNITED STATES,3130.0
+0011n00002498oI,Cancelled,Former Client,2020-02-06,Health,Medical Devices,SME,4100000.0,ISRAEL,
+0011n0000249jcE,Active,Customer,2022-08-31,Consumer Goods,Arts & Crafts Goods,SME,6400000.0,UNITED STATES,
+0011n0000259JMh,Active,Customer,2022-08-24,Homeware,Kitchenware,SME,14800000.0,UNITED KINGDOM,2110.0
+0011n0000259JNH,Cancelled,Former Client,2020-06-17,Homeware,Other,SME,8400000.0,ITALY,
+0011n0000249vDk,Cancelled,Former Client,2020-09-01,Fashion,Clothing,SME,,UNITED STATES,
+0011n0000249oAf,Active,Customer,2022-03-31,Consumer Goods,Design materials,SME,21800000.0,AUSTRALIA,2887.5
+0010Y00001TqURH,Paused,Customer,,Fashion,Eyewear,SME,,NEW ZEALAND,
+0011n0000259K0B,Active,Customer,2022-04-28,Fashion,Clothing,SME,5400000.0,SPAIN,1265.66
+0011n00002C0fka,Cancelled,Former Client,2019-10-16,Fashion,Eyewear,Mid-Market,78000000.0,SPAIN,
+0011n00002D3X8g,Cancelled,Former Client,2021-06-30,Consumer Goods,Design materials,SME,,UNITED STATES,4300.0
+0011n0000259LzJ,Active,Customer,2022-06-23,Beauty & Personal Care,Skin Care,SME,8200000.0,UNITED STATES,3630.0
+0010Y00001U35vb,Active,Customer,2022-06-30,Homeware,Kitchenware,SME,15000000.0,UNITED STATES,1701.0
+0011n00002C0Hhz,Paused,Customer,,"Toys, Kids & baby",Baby items,SME,,UNITED STATES,
+0011n00002SuKMJ,Cancelled,Former Client,2021-10-01,Health,Medical Goods,SME,,CHINA,23000.0
+0011n00002C1GFB,Cancelled,Former Client,2021-11-01,"Toys, Kids & baby",Games,SME,5100000.0,UNITED STATES,1041.94
+0011n00002D4mct,Cancelled,Former Client,2021-04-16,Sports,Sporting goods,SME,4900000.0,UNITED STATES,3840.0
